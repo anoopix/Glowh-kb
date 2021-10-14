@@ -1,0 +1,4957 @@
+[{
+        "geo_location": {
+            "continent": "North America",
+            "uid": 1,
+            "location_in_pub": "Bronx",
+            "country": "United States",
+            "max_lat": 0.0,
+            "city": "New York City",
+            "latitude": 40.837048,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": "New York",
+            "min_lat": 0.0,
+            "longitude": -73.865433
+        },
+        "stat_method": {
+            "uid": 1,
+            "name": "Simple Linear Regression Analysis",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 1,
+            "comment": null,
+            "type": "Tree pollen"
+        },
+        "weather_relations": [{
+            "uid": 7,
+            "comment": null,
+            "relation": "Positive"
+        }],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": null,
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "Journal of Asthma",
+            "access": "1",
+            "year": 2019,
+            "author": [
+                "Kordit DS",
+                "Reznik M",
+                "Leu CS",
+                "and Jariwala SP"
+            ],
+            "title": "Longitudinal trends in asthma emergency department visits, pollutant and pollen levels, and weather variables in the Bronx from 2001- 2008",
+            "url": "https:\/\/www.tandfonline.com\/doi\/full\/10.1080\/02770903.2019.1585871",
+            "doi": "10.1080\/02770903.2019.1585871"
+        },
+        "study_outcome": {
+            "comment": "asthma-related emergencydepartment visits (AREDV)",
+            "outcome": "Association between decreased AREDV and decreased NO2, CO, and SO2 values inthe Bronx. \r\nStatistically significant association between decreased AREDV and increased O3. \r\nDecrease in humidity and in AREDV that was seen across all seasons with a significant positive association in the winter season only."
+        },
+        "air_pollutants": [{
+                "uid": 1,
+                "comment": null,
+                "abbrev": "SO2",
+                "pollutant": "Sulfur dioxide"
+            },
+            {
+                "uid": 2,
+                "comment": null,
+                "abbrev": "CO",
+                "pollutant": "Carbon monoxide"
+            },
+            {
+                "uid": 3,
+                "comment": null,
+                "abbrev": "O3",
+                "pollutant": "Ozone"
+            },
+            {
+                "uid": 4,
+                "comment": null,
+                "abbrev": "NO2",
+                "pollutant": "Nitrogen dioxide"
+            }
+        ],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 2001,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 2008
+        },
+        "pub_uid": 1,
+        "atm_parameters": [{
+                "secondary": "Temperature",
+                "uid": 1,
+                "comment": null,
+                "derived": null,
+                "primary": "Temperature"
+            },
+            {
+                "secondary": "Humidity",
+                "uid": 7,
+                "comment": null,
+                "derived": null,
+                "primary": "Humidity"
+            }
+        ]
+    },
+    {
+        "geo_location": {
+            "continent": "North America",
+            "uid": 2,
+            "location_in_pub": "Detroit",
+            "country": "United States",
+            "max_lat": 0.0,
+            "city": "Detroit",
+            "latitude": 42.331429,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": "Michigan",
+            "min_lat": 0.0,
+            "longitude": -83.045753
+        },
+        "stat_method": {
+            "uid": 2,
+            "name": "Multivariable conditional logistic regression model",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [{
+            "uid": 1,
+            "comment": null,
+            "relation": "Negative"
+        }],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": null,
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "American Journal of Epidemiology",
+            "access": "1",
+            "year": 2012,
+            "author": [
+                "Wasilevich EA",
+                "Rabito F",
+                "Lefante J",
+                "and Johnson E"
+            ],
+            "title": "Short-term Outdoor Temperature Change and Emergency Department Visits for Asthma Among Children: A Case-Crossover Study",
+            "url": "https:\/\/academic.oup.com\/aje\/article\/176\/suppl_7\/S123\/113577",
+            "doi": "10.1093\/aje\/kws326"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "Asthma-related ED visits are not likely to be associated with temperature change during the 24 hours before the event."
+        },
+        "air_pollutants": [],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 2000,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 2001
+        },
+        "pub_uid": 2,
+        "atm_parameters": [{
+            "secondary": "Temperature",
+            "uid": 1,
+            "comment": null,
+            "derived": null,
+            "primary": "Temperature"
+        }]
+    },
+    {
+        "geo_location": {
+            "continent": "Europe",
+            "uid": 3,
+            "location_in_pub": "Rome",
+            "country": "Italy",
+            "max_lat": 0.0,
+            "city": null,
+            "latitude": 41.902782,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": null,
+            "min_lat": 0.0,
+            "longitude": 12.496366
+        },
+        "stat_method": {
+            "uid": 0,
+            "name": null,
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 1,
+            "comment": null,
+            "pub_comment": "age >45",
+            "type": "Adult"
+        },
+        "publication": {
+            "journal": "PLoS One",
+            "access": "1",
+            "year": 2018,
+            "author": [
+                "Orioli R",
+                "Cremona G",
+                "Ciancarella L",
+                "and Solimini AG"
+            ],
+            "title": "Association between PM10, PM2.5, NO2, O3 and self-reported diabetes in Italy: A cross-sectional, ecological study",
+            "url": "https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC5771616\/",
+            "doi": "10.1371\/journal.pone.0191112"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": null
+        },
+        "air_pollutants": [{
+                "uid": 4,
+                "comment": null,
+                "abbrev": "O3",
+                "pollutant": "Ozone"
+            },
+            {
+                "uid": 5,
+                "comment": null,
+                "abbrev": "NO2",
+                "pollutant": "Nitrogen dioxide"
+            },
+            {
+                "uid": 6,
+                "comment": null,
+                "abbrev": "PM10",
+                "pollutant": "Particulate Matter 10"
+            },
+            {
+                "uid": 3,
+                "comment": null,
+                "abbrev": "PM25",
+                "pollutant": "Particulate Matter 2.5"
+            }
+        ],
+        "diseases": [{
+            "uid": 2,
+            "name": "Diabetes Mellitus",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "E11.9",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 2003,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 2011
+        },
+        "pub_uid": 3,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "Europe",
+            "uid": 4,
+            "location_in_pub": "Athens",
+            "country": "Greece",
+            "max_lat": 0.0,
+            "city": "Athens",
+            "latitude": 37.98381,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": null,
+            "min_lat": 0.0,
+            "longitude": 23.727539
+        },
+        "stat_method": {
+            "uid": 3,
+            "name": "Generalized Linear Models with Poisson Distribution",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [{
+                "uid": 13,
+                "comment": null,
+                "relation": "Positive"
+            },
+            {
+                "uid": 9,
+                "comment": null,
+                "relation": "Negative"
+            },
+            {
+                "uid": 10,
+                "comment": null,
+                "relation": "Negative"
+            }
+        ],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": "classified into two groups - 0-4 and 5-14 years",
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "Journal of Asthma",
+            "access": "1",
+            "year": 2008,
+            "author": [
+                "Nastos PT",
+                "Paliatsos AG",
+                "Papadopoulos M",
+                "Bakoula C",
+                "and Priftis KN"
+            ],
+            "title": "The Effect of Weather Variability on Pediatric Asthma Admissions in Athens, Greece",
+            "url": "https:\/\/www.tandfonline.com\/doi\/full\/10.1080\/02770900701815818",
+            "doi": "10.1080\/02770900701815818"
+        },
+        "study_outcome": {
+            "comment": "THI: Thom's Discomfort Index; CAA: Childhood Asthma Admissions; CP: Cooling Power",
+            "outcome": "Seasonal variation of CAA among children in Athens does exist, rising during the cold  damp  period  in  the  0 - 4  year  age  group,  but  peaking around May in the 5 - 14 year group; mean monthly THI values are inversely related to the hospitalizations in both age groups while CP values are in parallel to the admissions. Cold  weather  associated  with  windy conditions  could  be  the  precursor  of  childhood  asthma exacerbations."
+        },
+        "air_pollutants": [],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 1978,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 2000
+        },
+        "pub_uid": 4,
+        "atm_parameters": [{
+                "secondary": "Air Temperature",
+                "uid": 2,
+                "comment": null,
+                "derived": null,
+                "primary": "Temperature"
+            },
+            {
+                "secondary": "Relative Humidity",
+                "uid": 8,
+                "comment": null,
+                "derived": null,
+                "primary": "Humidity"
+            },
+            {
+                "secondary": "Absolute Humidity",
+                "uid": 9,
+                "comment": null,
+                "derived": null,
+                "primary": "Humidity"
+            },
+            {
+                "secondary": "Wind Speed",
+                "uid": 10,
+                "comment": null,
+                "derived": null,
+                "primary": "Wind"
+            }
+        ]
+    },
+    {
+        "geo_location": {
+            "continent": "Asia",
+            "uid": 5,
+            "location_in_pub": "Taipei",
+            "country": "Taiwan",
+            "max_lat": 0.0,
+            "city": null,
+            "latitude": 25.105497,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": null,
+            "min_lat": 0.0,
+            "longitude": 121.597366
+        },
+        "stat_method": {
+            "uid": 4,
+            "name": "Bayesian Model Averaging",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [{
+                "uid": 1,
+                "comment": null,
+                "relation": "Negative"
+            },
+            {
+                "uid": 7,
+                "comment": null,
+                "relation": "Negative"
+            }
+        ],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": null,
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "Journal of Asthma",
+            "access": "1",
+            "year": 2018,
+            "author": [
+                "Chan CL",
+                "Phan DV",
+                "Yang NP",
+                "Pan RH",
+                "Wu CY",
+                "Chen CL",
+                "and Kuo CY"
+            ],
+            "title": "A survey of ambulatory-treated asthma and correlation with weather and air pollution conditions within Taiwan during 2001 - 2010",
+            "url": "https:\/\/www.tandfonline.com\/doi\/full\/10.1080\/02770903.2018.1497649",
+            "doi": "10.1080\/02770903.2018.1497649"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "There  were  positive  correlations between the number of asthma cases and the levels of PM2.5,PM10, and NO2, whereas negative correlations of the number of asthma cases with temperature and humidity were observed. In addition, the number of asthma cases in winter and spring were higher than in summer and autumn."
+        },
+        "air_pollutants": [{
+                "uid": 4,
+                "comment": null,
+                "abbrev": "NO2",
+                "pollutant": "Nitrogen dioxide"
+            },
+            {
+                "uid": 5,
+                "comment": null,
+                "abbrev": "PM10",
+                "pollutant": "Particulate Matter 10"
+            },
+            {
+                "uid": 6,
+                "comment": null,
+                "abbrev": "PM25",
+                "pollutant": "Particulate Matter 2.5"
+            }
+        ],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 2001,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 2009
+        },
+        "pub_uid": 5,
+        "atm_parameters": [{
+                "secondary": "Temperature",
+                "uid": 1,
+                "comment": null,
+                "derived": null,
+                "primary": "Temperature"
+            },
+            {
+                "secondary": "Humidity",
+                "uid": 7,
+                "comment": null,
+                "derived": null,
+                "primary": "Humidity"
+            }
+        ]
+    },
+    {
+        "geo_location": {
+            "continent": "Europe",
+            "uid": 6,
+            "location_in_pub": "Lodz",
+            "country": "Poland",
+            "max_lat": 0.0,
+            "city": null,
+            "latitude": 51.759445,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": null,
+            "min_lat": 0.0,
+            "longitude": 19.457216
+        },
+        "stat_method": {
+            "uid": 5,
+            "name": "Standard Multiple Regression",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [{
+                "uid": 3,
+                "comment": null,
+                "relation": "Negative"
+            },
+            {
+                "uid": 4,
+                "comment": null,
+                "relation": "Negative"
+            },
+            {
+                "uid": 6,
+                "comment": null,
+                "relation": "Negative"
+            }
+        ],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": null,
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "Journal of Asthma",
+            "access": "1",
+            "year": 2014,
+            "author": [
+                "Brzezinska-Pawlowska OE",
+                "Rydzewska AD",
+                "Luczynska M",
+                "Majkowska-Wojciechowska B",
+                "Kowalski ML",
+                "and Makowska JS"
+            ],
+            "title": "Environmental factors affecting seasonality of ambulance emergency service visits for exacerbations of asthma and COPD",
+            "url": "https:\/\/www.tandfonline.com\/doi\/full\/10.3109\/02770903.2015.1075547",
+            "doi": "10.3109\/02770903.2015.1075547"
+        },
+        "study_outcome": {
+            "comment": "AES: Ambulance Emergency Service",
+            "outcome": "Association between   weather   conditions   (specifically   dew   point   and humidity)   and   the   prevalence   of   severe   asthma\/COPD exacerbations,   while   at   the   same   time   it   suggested   an association with respiratory influenza outbreaks."
+        },
+        "air_pollutants": [],
+        "diseases": [{
+                "uid": 1,
+                "name": "Asthma",
+                "comment": null,
+                "pub_comment": null,
+                "icd": "J45.901",
+                "version": "9"
+            },
+            {
+                "uid": 3,
+                "name": "COPD",
+                "comment": null,
+                "pub_comment": null,
+                "icd": "J44.9",
+                "version": "10"
+            }
+        ],
+        "study_period": {
+            "start_year": 2007,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 2008
+        },
+        "pub_uid": 6,
+        "atm_parameters": [{
+                "secondary": "Mean Temperature",
+                "uid": 3,
+                "comment": null,
+                "derived": null,
+                "primary": "Temperature"
+            },
+            {
+                "secondary": "Minimum Temperature",
+                "uid": 4,
+                "comment": null,
+                "derived": null,
+                "primary": "Temperature"
+            },
+            {
+                "secondary": "Dew point Temperature",
+                "uid": 6,
+                "comment": null,
+                "derived": null,
+                "primary": "Temperature"
+            }
+        ]
+    },
+    {
+        "geo_location": {
+            "continent": "North America",
+            "uid": 7,
+            "location_in_pub": "Camp Bronco Junction",
+            "country": "United States",
+            "max_lat": 0.0,
+            "city": "Charleston",
+            "latitude": 38.5914775,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": "West Virginia",
+            "min_lat": 0.0,
+            "longitude": -81.8351328
+        },
+        "stat_method": {
+            "uid": 0,
+            "name": null,
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": null,
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "Journal of Asthma",
+            "access": "0",
+            "year": 1984,
+            "author": [
+                "Chipps BE",
+                "Mak H",
+                "Menkes HA",
+                "Schuberth KC",
+                "Talamo JH",
+                "Talamo RC",
+                "Permutt S",
+                "Scherr MS",
+                "and Mellits ED"
+            ],
+            "title": "Do Weather Conditions Change Pulmonary Function of Asthmatics at Summer Camp?",
+            "url": "https:\/\/www.tandfonline.com\/doi\/abs\/10.3109\/02770908409077394",
+            "doi": "10.3109\/02770908409077394"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": null
+        },
+        "air_pollutants": [],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 0,
+            "start_month": 0,
+            "end_month": 0,
+            "end_year": 0
+        },
+        "pub_uid": 7,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "Asia",
+            "uid": 10,
+            "location_in_pub": "Hong Kong",
+            "country": "Hong Kong",
+            "max_lat": 0.0,
+            "city": "Hong Kong",
+            "latitude": 22.302711,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": null,
+            "min_lat": 0.0,
+            "longitude": 114.177216
+        },
+        "stat_method": {
+            "uid": 6,
+            "name": "Generalized Additive Poisson Regression Model",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [{
+            "uid": 12,
+            "comment": null,
+            "relation": "Positive"
+        }],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": "<15",
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "Science of the Total Environment",
+            "access": "1",
+            "year": 2014,
+            "author": [
+                "Qiu H",
+                "Yu IT",
+                "Tse LA",
+                "Emily Y.Y. Chan EY",
+                "Wong TW",
+                "and Tian L"
+            ],
+            "title": "Greater temperature variation within a day associated with increased emergency hospital admissions for asthma",
+            "url": "http:\/\/dx.doi.org\/10.1016\/j.scitotenv.2014.10.003",
+            "doi": "10.1016\/j.scitotenv.2014.10.003"
+        },
+        "study_outcome": {
+            "comment": "DTR: Diurnal Temperature Range",
+            "outcome": "Acute adverse effect of DTR on asthma was observed. An increment of 1 C in DTR over lag0 to lag4 days was associated with a 2.49% (95% CI: 1.86%, 3.14%) increase in daily emergency asthma hospitalizations."
+        },
+        "air_pollutants": [],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 2004,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 2011
+        },
+        "pub_uid": 9,
+        "atm_parameters": [{
+            "secondary": "Diurnal Temperature range (DTR)",
+            "uid": 12,
+            "comment": null,
+            "derived": "Diurnal Temperature range (DTR)",
+            "primary": "Temperature"
+        }]
+    },
+    {
+        "geo_location": {
+            "continent": "Asia",
+            "uid": 11,
+            "location_in_pub": "Tokyo",
+            "country": "Japan",
+            "max_lat": 0.0,
+            "city": "Tokyo",
+            "latitude": 35.652832,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": "Tokyo",
+            "min_lat": 0.0,
+            "longitude": 139.839478
+        },
+        "stat_method": {
+            "uid": 7,
+            "name": "Multivariable-adjusted autoregressive integrated moving average model (time series analysis)",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [{
+            "uid": 4,
+            "comment": null,
+            "relation": "Negative"
+        }],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": null,
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "American Journal of Emergency Medicine",
+            "access": "1",
+            "year": 2009,
+            "author": [
+                "Abe T",
+                "Tokuda Y",
+                "Ohde S",
+                "Ishimatsu S",
+                "Nakamura T",
+                "and Birrer RB"
+            ],
+            "title": "The relationship of short-term air pollution and weather to ED visits for asthma in Japan",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/19371521\/",
+            "doi": "10.1016\/j.ajem.2008.01.013"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "Among adults, lower minimum temperature was significantly associated with increased emergency transport. Among children, there were no significant associations between exacerbation of asthma requiring emergency transport and air pollutants or meteorological factors."
+        },
+        "air_pollutants": [],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 2005,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 2005
+        },
+        "pub_uid": 10,
+        "atm_parameters": [{
+            "secondary": "Minimum Temperature",
+            "uid": 4,
+            "comment": null,
+            "derived": null,
+            "primary": "Temperature"
+        }]
+    },
+    {
+        "geo_location": {
+            "continent": "Europe",
+            "uid": 12,
+            "location_in_pub": "Cardiff",
+            "country": "United Kingdom",
+            "max_lat": 0.0,
+            "city": "Cardiff",
+            "latitude": 51.481583,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": null,
+            "min_lat": 0.0,
+            "longitude": -3.17909
+        },
+        "stat_method": {
+            "uid": 8,
+            "name": "Poisson log-linear regression model",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [{
+            "uid": 14,
+            "comment": null,
+            "relation": "Positive"
+        }],
+        "subject": {
+            "uid": 3,
+            "comment": null,
+            "pub_comment": null,
+            "type": "Unknown"
+        },
+        "publication": {
+            "journal": "Quarterly Journal of Medicine",
+            "access": "1",
+            "year": 2001,
+            "author": [
+                "Anderson W",
+                "Prescott GJ",
+                "Packham S",
+                "Mullins J",
+                "Brookes M",
+                "and Seaton A"
+            ],
+            "title": "Asthma admissions and thunderstorms: a study of pollen, fungal spores, rainfall, and ozone",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/11493720\/",
+            "doi": "10.1093\/qjmed\/94.8.429"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "This  study  confirms  the  association  between thunderstorms and increased hospital admission with asthma, an effect most marked in the summer months."
+        },
+        "air_pollutants": [],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 1990,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 1996
+        },
+        "pub_uid": 11,
+        "atm_parameters": [{
+            "secondary": "Thunderstorm",
+            "uid": 14,
+            "comment": null,
+            "derived": null,
+            "primary": "Thunderstorm"
+        }]
+    },
+    {
+        "geo_location": {
+            "continent": "Australia",
+            "uid": 13,
+            "location_in_pub": "Melbourne",
+            "country": "Australia",
+            "max_lat": 0.0,
+            "city": "Australia",
+            "latitude": -37.840935,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": "Victoria",
+            "min_lat": 0.0,
+            "longitude": 144.946457
+        },
+        "stat_method": {
+            "uid": 0,
+            "name": null,
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [{
+            "uid": 14,
+            "comment": null,
+            "relation": "Positive"
+        }],
+        "subject": {
+            "uid": 1,
+            "comment": null,
+            "pub_comment": null,
+            "type": "Adult"
+        },
+        "publication": {
+            "journal": "Lancet Planet Health",
+            "access": "1",
+            "year": 2018,
+            "author": [
+                "Thien F",
+                "Beggs PJ",
+                "Csutoros D et al."
+            ],
+            "title": "The Melbourne epidemic thunderstorm asthma event 2016: an investigation of environmental triggers, effect on health services, and patient risk factors",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/29880157\/",
+            "doi": "10.1016\/S2542-5196(18)30120-7"
+        },
+        "study_outcome": {
+            "comment": "Melbourne thunderstorm asthma event was outstanding in size and severity by orders of magnitude compared with previous events.",
+            "outcome": "Findings suggested that convergent environmental factors triggered a thunderstorm asthma epidemic of unprecedented magnitude and severity, with current doctor-diagnosed asthma, and Asian or Indian ethnicity conferring particularly increased risk."
+        },
+        "air_pollutants": [],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 2016,
+            "start_month": 11,
+            "end_month": 11,
+            "end_year": 2016
+        },
+        "pub_uid": 12,
+        "atm_parameters": [{
+            "secondary": "Thunderstorm",
+            "uid": 14,
+            "comment": null,
+            "derived": null,
+            "primary": "Thunderstorm"
+        }]
+    },
+    {
+        "geo_location": {
+            "continent": "Asia",
+            "uid": 10,
+            "location_in_pub": "Hong Kong",
+            "country": "Hong Kong",
+            "max_lat": 0.0,
+            "city": "Hong Kong",
+            "latitude": 22.302711,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": null,
+            "min_lat": 0.0,
+            "longitude": 114.177216
+        },
+        "stat_method": {
+            "uid": 11,
+            "name": "Piecewise Linear Model",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [{
+                "uid": 1,
+                "comment": "hot season",
+                "relation": "Positive"
+            },
+            {
+                "uid": 7,
+                "comment": "hotseason",
+                "relation": "Positive"
+            },
+            {
+                "uid": 1,
+                "comment": "cold season",
+                "relation": "Negative"
+            },
+            {
+                "uid": 7,
+                "comment": "cold season",
+                "relation": "Negative"
+            }
+        ],
+        "subject": {
+            "uid": 1,
+            "comment": null,
+            "pub_comment": null,
+            "type": "Adult"
+        },
+        "publication": {
+            "journal": "Thorax",
+            "access": "1",
+            "year": 2016,
+            "author": [
+                "Lam HCY",
+                "Li AM",
+                "Chan EYY",
+                "and Goggin WB"
+            ],
+            "title": "The short-term  association  between  asthma  hospitalisations,ambient temperature, other meteorological factors and air pollutants in Hong Kong: a time-series study",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/27343213\/",
+            "doi": "10.1136\/thoraxjnl-2015-208054"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "Adult admissions were most sensitive to temperatures in hot and cold seasons. Higher humidity and ozone levels in the hot season, and low humidity in the cold season were also associated with more asthma admissions."
+        },
+        "air_pollutants": [],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 2004,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 2011
+        },
+        "pub_uid": 13,
+        "atm_parameters": [{
+                "secondary": "Temperature",
+                "uid": 1,
+                "comment": null,
+                "derived": null,
+                "primary": "Temperature"
+            },
+            {
+                "secondary": "Humidity",
+                "uid": 7,
+                "comment": null,
+                "derived": null,
+                "primary": "Humidity"
+            }
+        ]
+    },
+    {
+        "geo_location": {
+            "continent": "Asia",
+            "uid": 14,
+            "location_in_pub": "Shanghai",
+            "country": "China",
+            "max_lat": 0.0,
+            "city": "Shanghai",
+            "latitude": 31.224361,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": null,
+            "min_lat": 0.0,
+            "longitude": 121.46917
+        },
+        "stat_method": {
+            "uid": 10,
+            "name": "Distributed Lag NonLinear Model",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [{
+            "uid": 2,
+            "comment": "cold effect appeared to be relatively acute",
+            "relation": "Negative"
+        }],
+        "subject": {
+            "uid": 1,
+            "comment": null,
+            "pub_comment": null,
+            "type": "Adult"
+        },
+        "publication": {
+            "journal": "PLoS One",
+            "access": "1",
+            "year": 2014,
+            "author": [
+                "Zhang T",
+                "Peng L",
+                "Kan H",
+                "Xu J",
+                "Chen R",
+                "Liu Y",
+                "and  Wang W"
+            ],
+            "title": "Effects of meteorological factors on daily hospital admissions for asthma in adults: a time-series analysis",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/25019158\/",
+            "doi": "10.1371\/journal.pone.0102475"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "Significant negative correlation (r = -0.174, P<0.001) between asthma hospitalizations and daily mean temperature (DMT). The DMT effect on asthma increased below the median DMT, with lower temperatures associated with a higher risk of hospital admission for asthma."
+        },
+        "air_pollutants": [],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 2005,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 2012
+        },
+        "pub_uid": 14,
+        "atm_parameters": [{
+            "secondary": "Air Temperature",
+            "uid": 2,
+            "comment": null,
+            "derived": null,
+            "primary": "Temperature"
+        }]
+    },
+    {
+        "geo_location": {
+            "continent": "Asia",
+            "uid": 15,
+            "location_in_pub": "Kuwait",
+            "country": "Kuwait",
+            "max_lat": 0.0,
+            "city": "Kuwait",
+            "latitude": 29.378586,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": null,
+            "min_lat": 0.0,
+            "longitude": 47.990341
+        },
+        "stat_method": {
+            "uid": 12,
+            "name": "Spearman?s rank order correlation",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [{
+                "uid": 1,
+                "comment": null,
+                "relation": "Positive"
+            },
+            {
+                "uid": 8,
+                "comment": null,
+                "relation": "Negative"
+            }
+        ],
+        "subject": {
+            "uid": 1,
+            "comment": null,
+            "pub_comment": null,
+            "type": "Adult"
+        },
+        "publication": {
+            "journal": "Annals of Saudi Medicine",
+            "access": "1",
+            "year": 2008,
+            "author": [
+                "Qasem JA",
+                "Nasrallah H",
+                "Al-Khalaf BN",
+                "Al-Sharifi F",
+                "Al-Sherayfee A",
+                "Almathkouri SA",
+                "and  Al-Saraf H"
+            ],
+            "title": "Meteorological factors, aeroallergens and asthma-related visits in Kuwait: a 12-month retrospective study",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/19011312\/",
+            "doi": "10.5144\/0256-4947.2008.435"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "The decrease in the temperature and increase in the relative humidity with extreme high precipitation readings in the December in the year 2003 was considered the major factor for the highest fungal spore counts, which resulted in a reciprocal increase in the monthly asthma patient admissions and emergency cases in this particular month."
+        },
+        "air_pollutants": [],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 2003,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 2003
+        },
+        "pub_uid": 15,
+        "atm_parameters": [{
+                "secondary": "Temperature",
+                "uid": 1,
+                "comment": null,
+                "derived": null,
+                "primary": "Temperature"
+            },
+            {
+                "secondary": "Relative Humidity",
+                "uid": 8,
+                "comment": null,
+                "derived": null,
+                "primary": "Humidity"
+            }
+        ]
+    },
+    {
+        "geo_location": {
+            "continent": "Asia",
+            "uid": 16,
+            "location_in_pub": "Bangalore",
+            "country": "India",
+            "max_lat": 0.0,
+            "city": "Bangalore",
+            "latitude": 12.972442,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": "Karnataka",
+            "min_lat": 0.0,
+            "longitude": 77.580643
+        },
+        "stat_method": {
+            "uid": 14,
+            "name": "Quasi-poisson regression analysis",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [{
+                "uid": 3,
+                "comment": null,
+                "relation": "Negative"
+            },
+            {
+                "uid": 15,
+                "comment": null,
+                "relation": "Changes"
+            },
+            {
+                "uid": 16,
+                "comment": null,
+                "relation": "Changes"
+            }
+        ],
+        "subject": {
+            "uid": 1,
+            "comment": null,
+            "pub_comment": null,
+            "type": "Adult"
+        },
+        "publication": {
+            "journal": "Journal of Basic and Clinical Physiology and Pharmacology",
+            "access": "1",
+            "year": 2017,
+            "author": [
+                "Kunikullaya KU",
+                "Vijayaraghava A",
+                "Asha P",
+                "Kunnavil R",
+                "and MuraliMohan BV"
+            ],
+            "title": "Meteorological parameters and pollutants on asthma exacerbation in Bangalore, India  - an ecological retrospective time-series study",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/28076315\/",
+            "doi": "10.1515\/jbcpp-2016-0074"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "In Bangalore city, levels of NO2 and particulate matter, temperature, rainfall, and season increase asthma exacerbations."
+        },
+        "air_pollutants": [],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 0,
+            "start_month": 0,
+            "end_month": 0,
+            "end_year": 0
+        },
+        "pub_uid": 20,
+        "atm_parameters": [{
+                "secondary": "Mean Temperature",
+                "uid": 3,
+                "comment": null,
+                "derived": null,
+                "primary": "Temperature"
+            },
+            {
+                "secondary": "Rainfall",
+                "uid": 15,
+                "comment": null,
+                "derived": null,
+                "primary": "Rainfall"
+            },
+            {
+                "secondary": "Seasonal Variation",
+                "uid": 16,
+                "comment": null,
+                "derived": null,
+                "primary": "Seasonal Variation"
+            }
+        ]
+    },
+    {
+        "geo_location": {
+            "continent": "Asia",
+            "uid": 10,
+            "location_in_pub": "Hong Kong",
+            "country": "Hong Kong",
+            "max_lat": 0.0,
+            "city": "Hong Kong",
+            "latitude": 22.302711,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": null,
+            "min_lat": 0.0,
+            "longitude": 114.177216
+        },
+        "stat_method": {
+            "uid": 9,
+            "name": "Poisson Generalised Additive Model (GAM)",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": "age < = 18",
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "Clinical and Experimental Allergy",
+            "access": "1",
+            "year": 2006,
+            "author": [
+                "Lee SL",
+                "Wong WHS",
+                "and Lau YL"
+            ],
+            "title": "Association between air pollution and asthma admission among children in Hong Kong",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/16961713\/",
+            "doi": "10.1111\/j.1365-2222.2006.02555.x"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "Ambient levels of PM10,PM2.5,NO2 and O3 are associated with childhood asthma hospital admission in Hong Kong."
+        },
+        "air_pollutants": [{
+                "uid": 3,
+                "comment": null,
+                "abbrev": "O3",
+                "pollutant": "Ozone"
+            },
+            {
+                "uid": 4,
+                "comment": null,
+                "abbrev": "NO2",
+                "pollutant": "Nitrogen dioxide"
+            },
+            {
+                "uid": 5,
+                "comment": null,
+                "abbrev": "PM10",
+                "pollutant": "Particulate Matter 10"
+            },
+            {
+                "uid": 6,
+                "comment": null,
+                "abbrev": "PM25",
+                "pollutant": "Particulate Matter 2.5"
+            }
+        ],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 1997,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 2002
+        },
+        "pub_uid": 21,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "North America",
+            "uid": 17,
+            "location_in_pub": "Edmonton",
+            "country": "Canada",
+            "max_lat": 0.0,
+            "city": "Edmonton",
+            "latitude": 53.631611,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": null,
+            "min_lat": 0.0,
+            "longitude": -113.323975
+        },
+        "stat_method": {
+            "uid": 15,
+            "name": "Generalized Linear Mixed Model",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": null,
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "International Journal of Occupational Medicine and Environmental Health",
+            "access": "1",
+            "year": 2008,
+            "author": [
+                "Szyszkowicz M"
+            ],
+            "title": "Ambient Air Pollution and Daily Emergency Department Visits for Asthma in Edmonton, Canada",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/18468973\/",
+            "doi": "10.2478\/v10001-008-0002-3"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "ED visits for asthma are associated with exposure to O3. This study underlines the significant role of air pollutants as triggering asthma attacks."
+        },
+        "air_pollutants": [{
+            "uid": 3,
+            "comment": null,
+            "abbrev": "O3",
+            "pollutant": "Ozone"
+        }],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 1992,
+            "start_month": 4,
+            "end_month": 3,
+            "end_year": 2002
+        },
+        "pub_uid": 22,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "Europe",
+            "uid": 18,
+            "location_in_pub": "London",
+            "country": "United Kingdom",
+            "max_lat": 0.0,
+            "city": "London",
+            "latitude": 51.509865,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": null,
+            "min_lat": 0.0,
+            "longitude": -0.118092
+        },
+        "stat_method": {
+            "uid": 16,
+            "name": "Poisson Regression",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": null,
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "Thorax",
+            "access": "1",
+            "year": 1998,
+            "author": [
+                "Anderson HR",
+                "Ponce de Leon A",
+                "Bland JM",
+                "Bower JS",
+                "Emberlin J",
+                "and Strachan DP"
+            ],
+            "title": "Air Pollution, Pollens, and Daily Admissions for Asthma in London 1987 - 92",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/10193370\/",
+            "doi": "10.1136\/thx.53.10.842"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "Ozone, sulphur dioxide, nitrogen dioxide, and particles were all found to have significant associations with daily hospital admissions \r\nfor asthma, but there was a lack of consistency across the age groups in the specific pollutant. \r\nThese associations  were  not  explained  by  confounding   by   airborne   pollens   nor   was there \r\nconvincing evidence that the effects of air pollutants and airborne pollens interact in causing hospital admissions for asthma."
+        },
+        "air_pollutants": [{
+                "uid": 1,
+                "comment": null,
+                "abbrev": "SO2",
+                "pollutant": "Sulfur dioxide"
+            },
+            {
+                "uid": 3,
+                "comment": null,
+                "abbrev": "O3",
+                "pollutant": "Ozone"
+            },
+            {
+                "uid": 4,
+                "comment": null,
+                "abbrev": "NO2",
+                "pollutant": "Nitrogen dioxide"
+            },
+            {
+                "uid": 5,
+                "comment": null,
+                "abbrev": "PM10",
+                "pollutant": "Particulate Matter 10"
+            },
+            {
+                "uid": 6,
+                "comment": null,
+                "abbrev": "PM25",
+                "pollutant": "Particulate Matter 2.5"
+            }
+        ],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 1987,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 1992
+        },
+        "pub_uid": 23,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "Europe",
+            "uid": 19,
+            "location_in_pub": "Rome",
+            "country": "Italy",
+            "max_lat": 0.0,
+            "city": "Rome",
+            "latitude": 41.902782,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": null,
+            "min_lat": 0.0,
+            "longitude": 12.496366
+        },
+        "stat_method": {
+            "uid": 6,
+            "name": "Generalized Additive Poisson Regression Model",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": null,
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "The European Respiratory Journal",
+            "access": "1",
+            "year": 2001,
+            "author": [
+                "Fusco D",
+                "Forastiere F",
+                "Michelozzi P",
+                "Spadea T",
+                "Ostro B",
+                "Arc? M",
+                "and Perucci CA"
+            ],
+            "title": "Air Pollution and Hospital Admissions for Respiratory Conditions in Rome, Italy",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/11491157\/",
+            "doi": "10.1183\/09031936.01.00005501"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "Carbon monoxide and photochemical pollutants (nitrogen dioxide, ozone) appear to be determinants of acute respiratory conditions in Rome."
+        },
+        "air_pollutants": [{
+                "uid": 3,
+                "comment": null,
+                "abbrev": "CO",
+                "pollutant": "Carbon monoxide"
+            },
+            {
+                "uid": 2,
+                "comment": null,
+                "abbrev": "O3",
+                "pollutant": "Ozone"
+            },
+            {
+                "uid": 4,
+                "comment": null,
+                "abbrev": "NO2",
+                "pollutant": "Nitrogen dioxide"
+            }
+        ],
+        "diseases": [{
+                "uid": 1,
+                "name": "Asthma",
+                "comment": null,
+                "pub_comment": null,
+                "icd": "J45.901",
+                "version": "9"
+            },
+            {
+                "uid": 3,
+                "name": "COPD",
+                "comment": null,
+                "pub_comment": null,
+                "icd": "J44.9",
+                "version": "10"
+            },
+            {
+                "uid": 4,
+                "name": "Respiratory Symptoms",
+                "comment": null,
+                "pub_comment": null,
+                "icd": null,
+                "version": null
+            }
+        ],
+        "study_period": {
+            "start_year": 1995,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 1997
+        },
+        "pub_uid": 27,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "Europe",
+            "uid": 4,
+            "location_in_pub": "Athens",
+            "country": "Greece",
+            "max_lat": 0.0,
+            "city": "Athens",
+            "latitude": 37.98381,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": null,
+            "min_lat": 0.0,
+            "longitude": 23.727539
+        },
+        "stat_method": {
+            "uid": 16,
+            "name": "Poisson Regression",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": null,
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "Environmental Research",
+            "access": "1",
+            "year": 2011,
+            "author": [
+                "Samoli E",
+                "Nastos PT",
+                "Paliatsos AG",
+                "Katsouyanni K",
+                "and Priftis KN"
+            ],
+            "title": "Acute Effects of Air Pollution on Pediatric Asthma Exacerbation: Evidence of Association and Effect Modification",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/21296347\/",
+            "doi": "10.1016\/j.envres.2011.01.014"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "A 10 ug\/m(3) increase in PM(10) was associated with a 2.54% increase (95% confidence interval (CI): 0.06%, 5.08%) in the number of pediatric asthma hospital admissions, while the same increase in SO(2) was associated with a 5.98% (95% CI: 0.88%, 11.33%) increase. O(3) was associated with a statistically significant increase in asthma admissions among older children in the summer."
+        },
+        "air_pollutants": [{
+                "uid": 1,
+                "comment": null,
+                "abbrev": "SO2",
+                "pollutant": "Sulfur dioxide"
+            },
+            {
+                "uid": 3,
+                "comment": null,
+                "abbrev": "O3",
+                "pollutant": "Ozone"
+            },
+            {
+                "uid": 5,
+                "comment": null,
+                "abbrev": "PM10",
+                "pollutant": "Particulate Matter 10"
+            }
+        ],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 2001,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 2004
+        },
+        "pub_uid": 28,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "Europe",
+            "uid": 20,
+            "location_in_pub": "Valencia",
+            "country": "Spain",
+            "max_lat": 0.0,
+            "city": "Valencia",
+            "latitude": 39.466667,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": null,
+            "min_lat": 0.0,
+            "longitude": -0.375
+        },
+        "stat_method": {
+            "uid": 16,
+            "name": "Poisson Regression",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": "age >14",
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "Occupational and Environmental Medicine",
+            "access": "1",
+            "year": 1998,
+            "author": [
+                "Ten?as JM",
+                "Ballester F",
+                "and Rivera ML"
+            ],
+            "title": "Association between Hospital Emergency Visits for Asthma and Air Pollution in Valencia, Spain",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/9849541\/",
+            "doi": "10.1136\/oem.55.8.541"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "The association between an increase of 10 ug\/m3in ambient air pollution and asthma, \r\nmeasured as a relative risk (RR) of emergency visits, was significant for NO2 24 hour mean \r\n(lag 0, RR1.076, 95% confidence interval (95% CI)1.020 to 1.134), NO2 hour maximum \r\n(lag 0,RR 1.037, 95% CI 1.008 to 1.066), and O3 hour maximum (lag 1, RR 1.063, CI 95%1.014 to 1.114)."
+        },
+        "air_pollutants": [{
+                "uid": 4,
+                "comment": null,
+                "abbrev": "O3",
+                "pollutant": "Ozone"
+            },
+            {
+                "uid": 3,
+                "comment": null,
+                "abbrev": "NO2",
+                "pollutant": "Nitrogen dioxide"
+            }
+        ],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 1994,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 1995
+        },
+        "pub_uid": 29,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "North America",
+            "uid": 21,
+            "location_in_pub": "Saint John",
+            "country": "Canada",
+            "max_lat": 0.0,
+            "city": "Saint John",
+            "latitude": 45.273918,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": "New Brunswick",
+            "min_lat": 0.0,
+            "longitude": -66.067657
+        },
+        "stat_method": {
+            "uid": 16,
+            "name": "Poisson Regression",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": null,
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "Environmental Health Perspectives",
+            "access": "1",
+            "year": 1996,
+            "author": [
+                "Stieb DM",
+                "Burnett RT",
+                "Beveridge RC",
+                "and Brook JR."
+            ],
+            "title": "Association between Ozone and Asthma Emergency Department Visits in Saint John, New Brunswick, Canada",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/9118879\/",
+            "doi": "10.1289\/ehp.961041354"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "A positive, statistically significant (p < 0.05) association was observed between ozone and asthma ED visits 2 days later, and the strength of the association was greater in nonlinear models. The frequency of asthma ED visits was 33% higher (95% CI, 10-56%) when the daily 1-hr maximum ozone concentration exceeded 75 ppb (the 95th percentile)."
+        },
+        "air_pollutants": [{
+            "uid": 3,
+            "comment": null,
+            "abbrev": "O3",
+            "pollutant": "Ozone"
+        }],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 1984,
+            "start_month": 5,
+            "end_month": 9,
+            "end_year": 1992
+        },
+        "pub_uid": 30,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "Asia",
+            "uid": 22,
+            "location_in_pub": "Seoul",
+            "country": "South Korea",
+            "max_lat": 0.0,
+            "city": "Seoul",
+            "latitude": 37.5326,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": null,
+            "min_lat": 0.0,
+            "longitude": 127.024612
+        },
+        "stat_method": {
+            "uid": 9,
+            "name": "Poisson Generalised Additive Model (GAM)",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": "age < 15",
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "Archives of Environmental & Occupational Health",
+            "access": "1",
+            "year": 2006,
+            "author": [
+                "Lee JT",
+                "Son JY",
+                "Kim H",
+                "and Kim SY"
+            ],
+            "title": "Effect of Air Pollution on Asthma-Related Hospital Admissions for Children by Socioeconomic Status Associated with Area of Residence",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/17672354\/",
+            "doi": "10.3200\/AEOH.61.3.123-130"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "Exposure to interquartile range increase of airborne particles < or = 10 microm in aerodynamic diameter, sulfur dioxide, and nitrogen dioxide in districts associated with a lower SES, the estimated percent increase of hospitalization for asthma among children was 31% (95% confidence interval [CI] = 14%-51%), 29% (95% CI = 8%-53%), and 29% (95% CI = 5%-58%), respectively"
+        },
+        "air_pollutants": [{
+                "uid": 5,
+                "comment": null,
+                "abbrev": "SO2",
+                "pollutant": "Sulfur dioxide"
+            },
+            {
+                "uid": 1,
+                "comment": null,
+                "abbrev": "NO2",
+                "pollutant": "Nitrogen dioxide"
+            },
+            {
+                "uid": 4,
+                "comment": null,
+                "abbrev": "PM10",
+                "pollutant": "Particulate Matter 10"
+            }
+        ],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 2002,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 2002
+        },
+        "pub_uid": 31,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "Europe",
+            "uid": 23,
+            "location_in_pub": "Madrid",
+            "country": "Spain",
+            "max_lat": 0.0,
+            "city": "Madrid",
+            "latitude": 40.416775,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": null,
+            "min_lat": 0.0,
+            "longitude": -3.70379
+        },
+        "stat_method": {
+            "uid": 17,
+            "name": "Poisson generalized estimating equations",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": null,
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "The European Respiratory Journal",
+            "access": "1",
+            "year": 2003,
+            "author": [
+                "Gal?n I",
+                "Tob?as A",
+                "Banegas JR",
+                "and Ar?nguez E"
+            ],
+            "title": "Short-Term Effects of Air Pollution on Daily Asthma Emergency Room Admissions",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/14621088\/",
+            "doi": "10.1183\/09031936.03.00013003"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "Using Poisson regression, a single-pollutant model showed that a 10-microg x m(-3) rise in pollutant level led to relative risks of: 1.039 for PM10; 1.029 for SO2; 1.033 for NO2; and 1.045 for O3."
+        },
+        "air_pollutants": [{
+                "uid": 3,
+                "comment": null,
+                "abbrev": "O3",
+                "pollutant": "Ozone"
+            },
+            {
+                "uid": 4,
+                "comment": null,
+                "abbrev": "NO2",
+                "pollutant": "Nitrogen dioxide"
+            },
+            {
+                "uid": 5,
+                "comment": null,
+                "abbrev": "PM10",
+                "pollutant": "Particulate Matter 10"
+            }
+        ],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 1995,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 1998
+        },
+        "pub_uid": 32,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "North America",
+            "uid": 24,
+            "location_in_pub": "Saint Louis",
+            "country": "United States",
+            "max_lat": 0.0,
+            "city": "Saint Louis",
+            "latitude": 38.627003,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": "Missouri",
+            "min_lat": 0.0,
+            "longitude": -90.199402
+        },
+        "stat_method": {
+            "uid": 19,
+            "name": "Mantel-Haenszel estimator",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": null,
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "The Journal of Asthma",
+            "access": "1",
+            "year": 2008,
+            "author": [
+                "Mohr LB",
+                "Luo S",
+                "Mathias E",
+                "Tobing R",
+                "Homan S",
+                "and Sterling D"
+            ],
+            "title": "Influence of Season and Temperature on the Relationship of Elemental Carbon Air Pollution to Pediatric Asthma Emergency Room Visits",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/19085586\/",
+            "doi": "10.1080\/02770900802404082"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "During the summer, a 0.10 microg\/m(3) increase in EC resulted in a 9.45% \r\nincrease in asthma ED visits among 11-17-year-olds (95%CI = 1.02,1.17) at \r\nthe median seasonal temperature (86.5 degrees F). During the winter, a 0.10 microg\/m(3) increase in EC \r\nresulted in 2.80% increase in asthma ED visits among 11-17-year-olds (95%CI = 1.01,1.05) at \r\nthe median seasonal temperature (43.3 degrees F)."
+        },
+        "air_pollutants": [{
+            "uid": 10,
+            "comment": null,
+            "abbrev": "EC",
+            "pollutant": "Elemental Carbon"
+        }],
+        "diseases": [{
+                "uid": 1,
+                "name": "Asthma",
+                "comment": null,
+                "pub_comment": null,
+                "icd": "J45.901",
+                "version": "9"
+            },
+            {
+                "uid": 1,
+                "name": "Asthma",
+                "comment": null,
+                "pub_comment": null,
+                "icd": "J45.901",
+                "version": "9"
+            }
+        ],
+        "study_period": {
+            "start_year": 2001,
+            "start_month": 6,
+            "end_month": 5,
+            "end_year": 2003
+        },
+        "pub_uid": 33,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "Europe",
+            "uid": 25,
+            "location_in_pub": "Marseille",
+            "country": "France",
+            "max_lat": 0.0,
+            "city": "Marseille",
+            "latitude": 43.296398,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": null,
+            "min_lat": 0.0,
+            "longitude": 5.37
+        },
+        "stat_method": {
+            "uid": 0,
+            "name": null,
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": null,
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "Respiration; International Review of Thoracic Diseases",
+            "access": "1",
+            "year": 2004,
+            "author": [
+                "Boutin-Forzano S",
+                "Adel N",
+                "Gratecos L",
+                "Jullian H",
+                "Garnier JM",
+                "Ramadour M",
+                "Lanteaume A",
+                "Hamon M",
+                "Lafay V",
+                "and Charpin D"
+            ],
+            "title": "Visits to the Emergency Room for Asthma Attacks and Short-Term Variations in Air Pollution. A Case-Crossover Study",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/15031567\/",
+            "doi": "10.1159\/000076673"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "No association could be shown between ER visits and SO2 or NO2 levels. In contrast, there was a statistically significant association between ER visits and mean O3 levels, on the day of admission and also on D ?2 and D ?3. For an increase of 10 ?g\/m3, the risk of requiring an ER admission increased by 6?10%."
+        },
+        "air_pollutants": [{
+            "uid": 3,
+            "comment": null,
+            "abbrev": "O3",
+            "pollutant": "Ozone"
+        }],
+        "diseases": [],
+        "study_period": {
+            "start_year": 0,
+            "start_month": 0,
+            "end_month": 0,
+            "end_year": 0
+        },
+        "pub_uid": 34,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "North America",
+            "uid": 28,
+            "location_in_pub": "Columbus",
+            "country": "United States",
+            "max_lat": 0.0,
+            "city": "Columbus",
+            "latitude": 39.983334,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": "Ohio",
+            "min_lat": 0.0,
+            "longitude": -82.98333
+        },
+        "stat_method": {
+            "uid": 16,
+            "name": "Poisson Regression",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": "ages 5-18 years",
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "Environmental Research",
+            "access": "1",
+            "year": 2003,
+            "author": [
+                "Jaffe DH",
+                "Singer ME",
+                "and Rimm AA"
+            ],
+            "title": "Air pollution and emergency department visits for asthma among Ohio Medicaid recipients, 1991-1996",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/12550084\/",
+            "doi": "10.1016\/s0013-9351(02)00004-x"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "12% increased likelihood of an asthma ED visit per 50 microg\/m(3) increase in PM(10) in Cleveland \r\n[95% confidence interval (CI)=0-27%] and a 35% increase per 50 microg\/m(3) increase in SO(2) in \r\nCincinnati (95% CI=9-21%). When data were analyzed for all three cities combined, the risk of an \r\nED visit increased for all pollutant increases and specifically by 12% (95% CI=1-23%) per 50 microg\/m(3) increase in SO(2)."
+        },
+        "air_pollutants": [{
+                "uid": 5,
+                "comment": null,
+                "abbrev": "SO2",
+                "pollutant": "Sulfur dioxide"
+            },
+            {
+                "uid": 1,
+                "comment": null,
+                "abbrev": "PM10",
+                "pollutant": "Particulate Matter 10"
+            }
+        ],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 1991,
+            "start_month": 7,
+            "end_month": 6,
+            "end_year": 1996
+        },
+        "pub_uid": 35,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "North America",
+            "uid": 29,
+            "location_in_pub": "Windsor",
+            "country": "Canada",
+            "max_lat": 0.0,
+            "city": "Ontario",
+            "latitude": 42.317432,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": "Ontario",
+            "min_lat": 0.0,
+            "longitude": -83.026772
+        },
+        "stat_method": {
+            "uid": 20,
+            "name": "Time-stratified case-crossover design",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": null,
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "Canadian Journal of Public Health",
+            "access": "1",
+            "year": 2012,
+            "author": [
+                "Lavigne E",
+                "Villeneuve PJ",
+                "and Cakmak S"
+            ],
+            "title": "Air pollution and emergency department visits for asthma in Windsor, Canada",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/22338320\/",
+            "doi": "10.1007\/BF03404060"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "Statistically significant associations were observed between ambient air pollution levels and ED \r\nvisits for asthma in Windsor. Effects were particularly pronounced among children 2 to 14 years \r\nof age between April and September. Namely, increases in the interquartile range with 1-day lagged \r\nexposure to SO2, NO2 and CO levels were associated with increased risks of an asthma visit of 19%, \r\n25% and 36%, respectively."
+        },
+        "air_pollutants": [{
+                "uid": 1,
+                "comment": null,
+                "abbrev": "SO2",
+                "pollutant": "Sulfur dioxide"
+            },
+            {
+                "uid": 2,
+                "comment": null,
+                "abbrev": "CO",
+                "pollutant": "Carbon monoxide"
+            },
+            {
+                "uid": 4,
+                "comment": null,
+                "abbrev": "NO2",
+                "pollutant": "Nitrogen dioxide"
+            }
+        ],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 2002,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 2009
+        },
+        "pub_uid": 36,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "North America",
+            "uid": 31,
+            "location_in_pub": "Manchester",
+            "country": "United States",
+            "max_lat": 0.0,
+            "city": "Manchester",
+            "latitude": 43.008663,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": "New Hampshire",
+            "min_lat": 0.0,
+            "longitude": -71.454391
+        },
+        "stat_method": {
+            "uid": 21,
+            "name": "Generalised Additive Model (GAM)",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": null,
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "Environmental Research",
+            "access": "1",
+            "year": 2005,
+            "author": [
+                "Wilson AM",
+                "Wake CP",
+                "Kelly T",
+                "and Salloway JC"
+            ],
+            "title": "Air pollution, weather, and respiratory emergency room visits in two northern New England cities: an ecological time-series study",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/15589240\/",
+            "doi": "10.1016\/j.envres.2004.07.010"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "On a daily basis, elevated SO2 and O3 have a significant impact on public health in Portland, Maine."
+        },
+        "air_pollutants": [{
+                "uid": 1,
+                "comment": null,
+                "abbrev": "SO2",
+                "pollutant": "Sulfur dioxide"
+            },
+            {
+                "uid": 3,
+                "comment": null,
+                "abbrev": "O3",
+                "pollutant": "Ozone"
+            }
+        ],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 1996,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 2000
+        },
+        "pub_uid": 37,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "South America",
+            "uid": 32,
+            "location_in_pub": "Sao Jose dos Campos",
+            "country": "Brazil",
+            "max_lat": 0.0,
+            "city": "Sao Jose dos Campos",
+            "latitude": -23.17944,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": "Sao Paulo",
+            "min_lat": 0.0,
+            "longitude": -45.88694
+        },
+        "stat_method": {
+            "uid": 16,
+            "name": "Poisson Regression",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": "age < 10",
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "Rev Assoc Med Bras",
+            "access": "1",
+            "year": 2012,
+            "author": [
+                "Amancio CT",
+                "and Nascimento LFC"
+            ],
+            "title": "Asthma and ambient pollutants: a time series study",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/22735221\/",
+            "doi": null
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "The pollutants PM10 and SO2 were identified as associated with hospitalization caused by asthma in a mid-sized city"
+        },
+        "air_pollutants": [{
+                "uid": 1,
+                "comment": null,
+                "abbrev": "SO2",
+                "pollutant": "Sulfur dioxide"
+            },
+            {
+                "uid": 5,
+                "comment": null,
+                "abbrev": "PM10",
+                "pollutant": "Particulate Matter 10"
+            }
+        ],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 2004,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 2005
+        },
+        "pub_uid": 38,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "Europe",
+            "uid": 33,
+            "location_in_pub": "Cartagena",
+            "country": "Spain",
+            "max_lat": 0.0,
+            "city": "Cartagena",
+            "latitude": 37.599998,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": null,
+            "min_lat": 0.0,
+            "longitude": -0.983333
+        },
+        "stat_method": {
+            "uid": 9,
+            "name": "Poisson Generalised Additive Model (GAM)",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": null,
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "Allergologia et Immunopathologia",
+            "access": "1",
+            "year": 2012,
+            "author": [
+                "Cirera L",
+                "Garcia-Marcos L",
+                "Gimenez J",
+                "Moreno-Grau S",
+                "Tobias A",
+                "Perez-Fernandez V",
+                "Elvira-Rendeles B",
+                "Guill?n JJ",
+                "and Navarro C"
+            ],
+            "title": "Daily effects of air pollutants and pollen types on asthma and COPD hospital emergency visits in the industrial and Mediterranean Spanish city of Cartagena",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/21890258\/",
+            "doi": "10.1016\/j.aller.2011.05.012"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "Air levels of SO(2) and NO(2) were associated with a substantial increased risk in ER visits due to asthma and COPD.\r\nadult and pediatric"
+        },
+        "air_pollutants": [{
+                "uid": 1,
+                "comment": null,
+                "abbrev": "SO2",
+                "pollutant": "Sulfur dioxide"
+            },
+            {
+                "uid": 4,
+                "comment": null,
+                "abbrev": "NO2",
+                "pollutant": "Nitrogen dioxide"
+            }
+        ],
+        "diseases": [{
+                "uid": 1,
+                "name": "Asthma",
+                "comment": null,
+                "pub_comment": null,
+                "icd": "J45.901",
+                "version": "9"
+            },
+            {
+                "uid": 3,
+                "name": "COPD",
+                "comment": null,
+                "pub_comment": null,
+                "icd": "J44.9",
+                "version": "10"
+            }
+        ],
+        "study_period": {
+            "start_year": 1995,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 1998
+        },
+        "pub_uid": 39,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "North America",
+            "uid": 34,
+            "location_in_pub": "Seattle",
+            "country": "United States",
+            "max_lat": 0.0,
+            "city": "Seattle",
+            "latitude": 47.608013,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": "Washington",
+            "min_lat": 0.0,
+            "longitude": -122.335167
+        },
+        "stat_method": {
+            "uid": 16,
+            "name": "Poisson Regression",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": null,
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "Epidemiology",
+            "access": "1",
+            "year": 1999,
+            "author": [
+                "Sheppard L",
+                "Levy D",
+                "Norris G",
+                "Larson TV",
+                "and Koenig JQ"
+            ],
+            "title": "Effects of ambient air pollution on nonelderlyasthma hospital admissions in Seattle, Washington, 1987-1994",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/9888276\/",
+            "doi": null
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "Found an estimated 4-5% increase in the rate of asthma hospital admissions associated with an interquartile range change \r\nin PM lagged 1 day; relative rates were as follows: for PM10, 1.05; for PM2.5, 1.04; and for coarse particulate mass, 1.04. \r\nIn single-pollutant models we also found that a 6% increase in the rate of admission was associated with an interquartile \r\nrange change in CO at a lag of 3 days and an interquartile range change in O3 at a lag of 2 days. \r\nWe found PM and CO to be jointly associated with asthma admissions. \r\nWe estimated the highest increase in risk in the spring and fall seasons."
+        },
+        "air_pollutants": [{
+                "uid": 2,
+                "comment": null,
+                "abbrev": "CO",
+                "pollutant": "Carbon monoxide"
+            },
+            {
+                "uid": 3,
+                "comment": null,
+                "abbrev": "O3",
+                "pollutant": "Ozone"
+            },
+            {
+                "uid": 5,
+                "comment": null,
+                "abbrev": "PM10",
+                "pollutant": "Particulate Matter 10"
+            },
+            {
+                "uid": 6,
+                "comment": null,
+                "abbrev": "PM25",
+                "pollutant": "Particulate Matter 2.5"
+            }
+        ],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 1987,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 1994
+        },
+        "pub_uid": 40,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "Asia",
+            "uid": 11,
+            "location_in_pub": "Tokyo",
+            "country": "Japan",
+            "max_lat": 0.0,
+            "city": "Tokyo",
+            "latitude": 35.652832,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": "Tokyo",
+            "min_lat": 0.0,
+            "longitude": 139.839478
+        },
+        "stat_method": {
+            "uid": 22,
+            "name": "Case-crossover",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": null,
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "Journal of Epidemiology",
+            "access": "1",
+            "year": 2009,
+            "author": [
+                "Yamazaki S",
+                "Shima M",
+                "Ando M",
+                "and  Nitta H"
+            ],
+            "title": "Modifying effect of age on the association between ambient ozone and nighttime primary care visits due to asthma attack",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/19398846\/",
+            "doi": "10.2188\/jea.je20081025"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "An association was found between ozone and nighttime primary care visits for asthma attack in warmer months; \r\nthe association was greater among preschool children."
+        },
+        "air_pollutants": [{
+            "uid": 3,
+            "comment": null,
+            "abbrev": "O3",
+            "pollutant": "Ozone"
+        }],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 2002,
+            "start_month": 9,
+            "end_month": 8,
+            "end_year": 2003
+        },
+        "pub_uid": 41,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "North America",
+            "uid": 35,
+            "location_in_pub": "Washington DC",
+            "country": "United States",
+            "max_lat": 0.0,
+            "city": "Washington DC",
+            "latitude": 38.889248,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": "Washington DC",
+            "min_lat": 0.0,
+            "longitude": -77.050636
+        },
+        "stat_method": {
+            "uid": 16,
+            "name": "Poisson Regression",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": null,
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "International Journal of Environmental Health Research",
+            "access": "1",
+            "year": 2008,
+            "author": [
+                "Babin S",
+                "Burkom H",
+                "Holtry R",
+                "Tabernero N",
+                "Davies-Cole J",
+                "Stokes L",
+                "Dehaan K",
+                "and  Lee D"
+            ],
+            "title": "Medicaid patient asthma-related acute care visits and their associations with ozone and particulates in Washington, DC, from 1994 - 2005",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/18569148\/",
+            "doi": "10.1080\/09603120701694091"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "Significant associations were found between asthma-related general acute care visits and ozone concentrations. \r\nSignificant associations with both ozone and PM2.5 concentrations were observed for 5- to 12-year-olds."
+        },
+        "air_pollutants": [{
+                "uid": 3,
+                "comment": null,
+                "abbrev": "O3",
+                "pollutant": "Ozone"
+            },
+            {
+                "uid": 6,
+                "comment": null,
+                "abbrev": "PM25",
+                "pollutant": "Particulate Matter 2.5"
+            }
+        ],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 1994,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 2005
+        },
+        "pub_uid": 42,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "North America",
+            "uid": 36,
+            "location_in_pub": "Tacoma",
+            "country": "United States",
+            "max_lat": 0.0,
+            "city": "Tacoma",
+            "latitude": 47.258728,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": "Washington",
+            "min_lat": 0.0,
+            "longitude": -122.465973
+        },
+        "stat_method": {
+            "uid": 0,
+            "name": null,
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 3,
+            "comment": null,
+            "pub_comment": null,
+            "type": "Unknown"
+        },
+        "publication": {
+            "journal": "Inhalation Toxicology",
+            "access": "1",
+            "year": 2010,
+            "author": [
+                "Mar T",
+                "Koenig JQ",
+                "and  Primomo J"
+            ],
+            "title": "Associations between asthma emergency visits and particulate matter sources, including diesel \r\nemissions from stationary generators in Tacoma, Washington",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/20384437\/",
+            "doi": "10.3109\/08958370903575774"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "An association between daily PM2.5 and emergency department (ED) visits for asthma at lag days 2 and 3 was observed"
+        },
+        "air_pollutants": [{
+            "uid": 6,
+            "comment": null,
+            "abbrev": "PM25",
+            "pollutant": "Particulate Matter 2.5"
+        }],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 1998,
+            "start_month": 1,
+            "end_month": 5,
+            "end_year": 2010
+        },
+        "pub_uid": 43,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "North America",
+            "uid": 37,
+            "location_in_pub": "Ciudad Juarez",
+            "country": "Mexico",
+            "max_lat": 0.0,
+            "city": "Ciudad Juarez",
+            "latitude": 31.738581,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": "Chihuahua",
+            "min_lat": 0.0,
+            "longitude": -106.487015
+        },
+        "stat_method": {
+            "uid": 23,
+            "name": "Poisson regression time series method",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": "age < 15",
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "Salud P?blica de M?xico",
+            "access": "1",
+            "year": 2000,
+            "author": [
+                "Hernandez-Cadena L",
+                "T?llez-Rojo MM",
+                "San?n-Aguirre LH",
+                "Lacasa?a-Navarro M",
+                "Campos A",
+                "and Romieu I"
+            ],
+            "title": "Relationship between emergency consultations for respiratory diseases and air pollution in Juarez City, Chihuahua",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/11026070\/",
+            "doi": null
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "A positive association was found between environmental PM10 and ozone concentrations and the daily number of \r\nemergency room visits due to asthma and acute respiratory diseases, even with levels lower than the Mexican standard levels. \r\nAlso, a synergic effect between PM10 and O3 was found."
+        },
+        "air_pollutants": [{
+                "uid": 5,
+                "comment": null,
+                "abbrev": "O3",
+                "pollutant": "Ozone"
+            },
+            {
+                "uid": 3,
+                "comment": null,
+                "abbrev": "PM10",
+                "pollutant": "Particulate Matter 10"
+            }
+        ],
+        "diseases": [{
+            "uid": 4,
+            "name": "Respiratory Symptoms",
+            "comment": null,
+            "pub_comment": null,
+            "icd": null,
+            "version": null
+        }],
+        "study_period": {
+            "start_year": 1997,
+            "start_month": 7,
+            "end_month": 12,
+            "end_year": 1998
+        },
+        "pub_uid": 44,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "South America",
+            "uid": 38,
+            "location_in_pub": "Sao Paulo",
+            "country": "Brazil",
+            "max_lat": 0.0,
+            "city": "Sao Paulo",
+            "latitude": -23.533773,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": null,
+            "min_lat": 0.0,
+            "longitude": -46.62529
+        },
+        "stat_method": {
+            "uid": 16,
+            "name": "Poisson Regression",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": null,
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "Occupational and Environmental Medicine",
+            "access": "1",
+            "year": 2000,
+            "author": [
+                "Fletcher T",
+                "and Gouveia N"
+            ],
+            "title": "Respiratory diseases in children and outdoor air pollution in San Paulo, Brazil:a time series analysis",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/10854501\/",
+            "doi": "10.1136\/oem.57.7.477"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "Daily admissions of children to hospital for total respiratory disease and pneumonia showed \r\nsignificant increases associated with O(3) (5-8%), NO(2) (9%), and with PM(10) (9%) \r\n(results are for an increase from the 10th to the 90th percentile of pollution measurements)."
+        },
+        "air_pollutants": [{
+                "uid": 3,
+                "comment": null,
+                "abbrev": "O3",
+                "pollutant": "Ozone"
+            },
+            {
+                "uid": 4,
+                "comment": null,
+                "abbrev": "NO2",
+                "pollutant": "Nitrogen dioxide"
+            },
+            {
+                "uid": 5,
+                "comment": null,
+                "abbrev": "PM10",
+                "pollutant": "Particulate Matter 10"
+            }
+        ],
+        "diseases": [{
+            "uid": 4,
+            "name": "Respiratory Symptoms",
+            "comment": null,
+            "pub_comment": null,
+            "icd": null,
+            "version": null
+        }],
+        "study_period": {
+            "start_year": 1992,
+            "start_month": 11,
+            "end_month": 9,
+            "end_year": 1994
+        },
+        "pub_uid": 45,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "Australia",
+            "uid": 39,
+            "location_in_pub": "Sydney",
+            "country": "Australia",
+            "max_lat": 0.0,
+            "city": "Sydney",
+            "latitude": -33.865143,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": "New South Wales",
+            "min_lat": 0.0,
+            "longitude": 151.2099
+        },
+        "stat_method": {
+            "uid": 16,
+            "name": "Poisson Regression",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": null,
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "American Journal of Public Health",
+            "access": "1",
+            "year": 1998,
+            "author": [
+                "Morgan G",
+                "Corbett S",
+                "and Wlodarczyk J"
+            ],
+            "title": "Air pollution and hospital admissions in Sydney, Australia 1990 to 1994",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/9842371\/",
+            "doi": "10.2105\/ajph.88.12.1761"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "An increase in daily maximum 1-hour concentration of nitrogen dioxide from the 10th to the 90th percentile was \r\nassociated with an increase of 5.29% (95% confidence interval = 1.07, 9.68) in childhood asthma admissions."
+        },
+        "air_pollutants": [{
+            "uid": 4,
+            "comment": null,
+            "abbrev": "NO2",
+            "pollutant": "Nitrogen dioxide"
+        }],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 1990,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 1994
+        },
+        "pub_uid": 46,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "Europe",
+            "uid": 18,
+            "location_in_pub": "London",
+            "country": "United Kingdom",
+            "max_lat": 0.0,
+            "city": "London",
+            "latitude": 51.509865,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": null,
+            "min_lat": 0.0,
+            "longitude": -0.118092
+        },
+        "stat_method": {
+            "uid": 23,
+            "name": "Poisson regression time series method",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": "age < 15",
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "Thorax",
+            "access": "1",
+            "year": 1997,
+            "author": [
+                "Sunyer J",
+                "Spix C",
+                "Quenel P",
+                "Ponce-de-Leon A",
+                "Ponka A",
+                "Barumandzadeh T",
+                "Touloumi G",
+                "Bacharova L",
+                "Wojtyniak B",
+                "Vonk J",
+                "Bisanti L",
+                "Schwartz J",
+                "and Katsouyanni K"
+            ],
+            "title": "Urban air pollution and emergency admissions for asthma in four European cities: the APHEA Project",
+            "url": "https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC1758645\/",
+            "doi": "10.1136\/thx.52.9.760"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "Daily admissions for asthma in adults increased significantly with increasing ambient levels of nitrogen dioxide (NO2) \r\n(relative risk (RR) per 50 micrograms\/m3 increase 1.029, 95% CI 1.003 to 1.055) and non-significantly with particles \r\nmeasured as black smoke (RR 1.021, 95% CI 0.985 to 1.059). The association between asthma admissions and ozone (O3) \r\nwas heterogeneous among cities. In children, daily admissions increased significantly with sulphur dioxide (SO2) \r\n(RR 1.075, 95% CI 1.026 to 1.126) and non-significantly with black smoke (RR 1.030, 95% CI 0.979 to 1.084) and NO2, \r\nthough the latter only in cold seasons (RR 1.080, 95% CI 1.025 to 1.140). No association was observed for O3. \r\nThe associations between asthma admissions and NO2 in adults and SO2 in children were independent of black smoke."
+        },
+        "air_pollutants": [{
+                "uid": 4,
+                "comment": null,
+                "abbrev": "SO2",
+                "pollutant": "Sulfur dioxide"
+            },
+            {
+                "uid": 1,
+                "comment": null,
+                "abbrev": "NO2",
+                "pollutant": "Nitrogen dioxide"
+            }
+        ],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 1986,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 1992
+        },
+        "pub_uid": 47,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "Asia",
+            "uid": 42,
+            "location_in_pub": "Kolkata",
+            "country": "India",
+            "max_lat": 0.0,
+            "city": "Kolkata",
+            "latitude": 22.572645,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": "West Bengal",
+            "min_lat": 0.0,
+            "longitude": 88.363892
+        },
+        "stat_method": {
+            "uid": 21,
+            "name": "Generalised Additive Model (GAM)",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": "age 5 - 18 years",
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "Aerobiologia",
+            "access": "1",
+            "year": 2014,
+            "author": [
+                "Chakraborty P",
+                "Chakraborty A",
+                "Ghosh D",
+                "Mandal J",
+                "Biswas S",
+                "Mukhopadhyay UK",
+                "et al."
+            ],
+            "title": "Effect of airborne Alternaria conidia, ozone exposure, PM10 and weather on emergency visits for asthma in school-age children in Kolkata city, India",
+            "url": "https:\/\/link.springer.com\/article\/10.1007\/s10453-013-9312-4",
+            "doi": "10.1007\/s10453-013-9312-4"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "There are two peak seasons of asthma hospitalization, one in spring-early summer (end of March to mid April) \r\nand other in autumn (mid September?October). In GAM analyses, Alternaria conidia, ozone and PM10 were found \r\nto be significant both in spline and LOcal regrESSion smoothing method. Airborne Alternaria conidia, ozone and \r\nPM10 in the city of Kolkata are found to have effect on school-age children with asthma and appear responsible \r\nfor severe attacks leading to hospitalization."
+        },
+        "air_pollutants": [{
+                "uid": 3,
+                "comment": null,
+                "abbrev": "O3",
+                "pollutant": "Ozone"
+            },
+            {
+                "uid": 5,
+                "comment": null,
+                "abbrev": "PM10",
+                "pollutant": "Particulate Matter 10"
+            },
+            {
+                "uid": 11,
+                "comment": null,
+                "abbrev": null,
+                "pollutant": "Alternaria conidia"
+            }
+        ],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 2010,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 2010
+        },
+        "pub_uid": 48,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "North America",
+            "uid": 43,
+            "location_in_pub": "Rochester",
+            "country": "United States",
+            "max_lat": 0.0,
+            "city": "Rochester",
+            "latitude": 43.16103,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": "New York",
+            "min_lat": 0.0,
+            "longitude": -77.610924
+        },
+        "stat_method": {
+            "uid": 18,
+            "name": "Logistic regression analysis",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": "age 3 - 10 years",
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "Environmental Research",
+            "access": "1",
+            "year": 2014,
+            "author": [
+                "Evans KA",
+                "Halterman JS",
+                "Hopke PK",
+                "Fagnano M",
+                "and Rich DQ"
+            ],
+            "title": "Increased ultrafine particles and carbon monoxide concentrations are associated with asthma exacerbation among urban children",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/24528997\/",
+            "doi": "10.1016\/j.envres.2013.12.001"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "These findings suggest a response to markers of traffic pollution among urban asthmatic children. Effects were strongest \r\namong children receiving preventive medications through school, suggesting that this group of children was particularly \r\nsensitive to environmental triggers. Medication adherence alone may be insufficient to protect the most vulnerable \r\nfrom environmental asthma triggers. However, further research is necessary to confirm this finding."
+        },
+        "air_pollutants": [{
+                "uid": 2,
+                "comment": null,
+                "abbrev": "CO",
+                "pollutant": "Carbon monoxide"
+            },
+            {
+                "uid": 12,
+                "comment": null,
+                "abbrev": null,
+                "pollutant": "Ultrafine particles"
+            }
+        ],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 2006,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 2009
+        },
+        "pub_uid": 49,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "Asia",
+            "uid": 44,
+            "location_in_pub": "Taipei",
+            "country": "Taiwan",
+            "max_lat": 0.0,
+            "city": "Taipei",
+            "latitude": 25.105497,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": null,
+            "min_lat": 0.0,
+            "longitude": 121.597366
+        },
+        "stat_method": {
+            "uid": 22,
+            "name": "Case-crossover",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": null,
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "Journal of Toxicology and Environmental Health",
+            "access": "1",
+            "year": 2007,
+            "author": [
+                "Yang CY",
+                "Chen CC",
+                "Chen CY",
+                "and Kuo HW"
+            ],
+            "title": "Air pollution and hospital admissions for asthma in a subtropical city: Taipei, Taiwan",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/17365571\/",
+            "doi": "10.1080\/15287390600755059"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "In the single-air-pollutant model, on warm days (> or = 25 degrees C) statistically significant positive associations \r\nwere found for SO2, NO2, and CO levels with an increase in asthmatic admissions. On cool days (< 25 degrees C), \r\nall air pollutants were significantly associated with elevated asthma admissions except SO2. For the two-air-pollutant model, \r\nCO significantly increases hospital admissions for asthma in combination with each of the other four pollutants on warm days. \r\nOn cool days, NO2 and O3 significantly elevated asthma rates in all the two-air-pollutant models."
+        },
+        "air_pollutants": [{
+                "uid": 3,
+                "comment": null,
+                "abbrev": "SO2",
+                "pollutant": "Sulfur dioxide"
+            },
+            {
+                "uid": 1,
+                "comment": null,
+                "abbrev": "CO",
+                "pollutant": "Carbon monoxide"
+            },
+            {
+                "uid": 4,
+                "comment": null,
+                "abbrev": "O3",
+                "pollutant": "Ozone"
+            },
+            {
+                "uid": 2,
+                "comment": null,
+                "abbrev": "NO2",
+                "pollutant": "Nitrogen dioxide"
+            }
+        ],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 1996,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 2003
+        },
+        "pub_uid": 50,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "Asia",
+            "uid": 45,
+            "location_in_pub": "Kaohsiung",
+            "country": "Taiwan",
+            "max_lat": 0.0,
+            "city": "Kaohsiung",
+            "latitude": 22.633333,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": null,
+            "min_lat": 0.0,
+            "longitude": 120.26667
+        },
+        "stat_method": {
+            "uid": 22,
+            "name": "Case-crossover",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": null,
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "Inhalation Toxicology",
+            "access": "1",
+            "year": 2006,
+            "author": [
+                "Tsai SS",
+                "Cheng MH",
+                "Chiu HF",
+                "Wu TN",
+                "and Yang CY"
+            ],
+            "title": "Air Pollution and Hospital Admissions for Asthma in a Tropical City: Kaohsiung, Taiwan",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/16717026\/",
+            "doi": "10.1080\/08958370600686176"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "In the single-pollutant models, on warm days (> or = 25 degrees C) statistically significant positive \r\nassociations were found in all pollutants except sulfur dioxide (SO2). On cool days (< or = 25 degrees C) \r\nall pollutants were significantly associated with asthma admissions For the two pollutant models, \r\nCO and O3 were significant in combination with each of the other four pollutants on warm days. \r\nOn cool days NO2 remained statistically significant in all the two-pollutant models."
+        },
+        "air_pollutants": [{
+                "uid": 1,
+                "comment": null,
+                "abbrev": "SO2",
+                "pollutant": "Sulfur dioxide"
+            },
+            {
+                "uid": 2,
+                "comment": null,
+                "abbrev": "CO",
+                "pollutant": "Carbon monoxide"
+            },
+            {
+                "uid": 3,
+                "comment": null,
+                "abbrev": "O3",
+                "pollutant": "Ozone"
+            },
+            {
+                "uid": 4,
+                "comment": null,
+                "abbrev": "NO2",
+                "pollutant": "Nitrogen dioxide"
+            }
+        ],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 1996,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 2003
+        },
+        "pub_uid": 51,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "Asia",
+            "uid": 10,
+            "location_in_pub": "Hong Kong",
+            "country": "Hong Kong",
+            "max_lat": 0.0,
+            "city": "Hong Kong",
+            "latitude": 22.302711,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": null,
+            "min_lat": 0.0,
+            "longitude": 114.177216
+        },
+        "stat_method": {
+            "uid": 16,
+            "name": "Poisson Regression",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": null,
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "Occupational and Environmental Medicine",
+            "access": "1",
+            "year": 1999,
+            "author": [
+                "Wong TW",
+                "Lau TS",
+                "Yu TS",
+                "Neller A",
+                "Wong SL",
+                "Tam W",
+                "et al."
+            ],
+            "title": "Air pollution and hospital admissions for respiratory and cardiovascular diseases in Hong Kong",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/10658547\/",
+            "doi": "10.1136\/oem.56.10.679"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "Significant associations were found between hospital admissions for all respiratory diseases, \r\nall cardiovascular diseases, chronic obstructive pulmonary diseases, and heart failure and the concentrations \r\nof all four pollutants. Admissions for asthma, pneumonia, and influenza were significantly associated with NO2, O3, \r\nand PM10. Relative risk (RR) for admissions for respiratory disease for the four pollutants ranged from \r\n1.013 (for SO2) to 1.022 (for O3), and for admissions for cardiovascular disease, from 1.006 (for PM10) to \r\n1.016 (for SO2). Those aged > or = 65 years were at higher risk. Significant positive interactions were detected \r\nbetween NO2, O3, and PM10, and between O3 and winter months."
+        },
+        "air_pollutants": [{
+                "uid": 1,
+                "comment": null,
+                "abbrev": "SO2",
+                "pollutant": "Sulfur dioxide"
+            },
+            {
+                "uid": 3,
+                "comment": null,
+                "abbrev": "O3",
+                "pollutant": "Ozone"
+            },
+            {
+                "uid": 4,
+                "comment": null,
+                "abbrev": "NO2",
+                "pollutant": "Nitrogen dioxide"
+            },
+            {
+                "uid": 5,
+                "comment": null,
+                "abbrev": "PM10",
+                "pollutant": "Particulate Matter 10"
+            }
+        ],
+        "diseases": [{
+                "uid": 1,
+                "name": "Asthma",
+                "comment": null,
+                "pub_comment": null,
+                "icd": "J45.901",
+                "version": "9"
+            },
+            {
+                "uid": 4,
+                "name": "Respiratory Symptoms",
+                "comment": null,
+                "pub_comment": null,
+                "icd": null,
+                "version": null
+            }
+        ],
+        "study_period": {
+            "start_year": 1994,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 1995
+        },
+        "pub_uid": 52,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "Europe",
+            "uid": 46,
+            "location_in_pub": "Strasbourg",
+            "country": "France",
+            "max_lat": 0.0,
+            "city": "Strasbourg",
+            "latitude": 48.580002,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": null,
+            "min_lat": 0.0,
+            "longitude": 7.75
+        },
+        "stat_method": {
+            "uid": 22,
+            "name": "Case-crossover",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": null,
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "American Journal of Epidemiology",
+            "access": "1",
+            "year": 2008,
+            "author": [
+                "Laurent O",
+                "Pedrono G",
+                "Segala C",
+                "Filleul L",
+                "Havard S",
+                "Deguen S",
+                "et al."
+            ],
+            "title": "Air pollution, asthma attacks,and socioeconomic deprivation: a small-area case-crossover Study",
+            "url": "https:\/\/academic.oup.com\/aje\/article\/168\/1\/58\/123510",
+            "doi": "doi.org\/10.1093\/aje\/kwn087"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "Adjusted case-crossover analyses showed that asthma calls were positively but not significantly associated with PM10 \r\n(for a 10-?g ? m-3 increase, odds ratio (OR) = 1.035, 95% confidence interval (CI): 0.997, 1.075), sulfur dioxide \r\n(OR = 1.056, 95% CI: 0.979, 1.139), and nitrogen dioxide (OR = 1.025, 95% CI: 0.990, 1.062). No association was \r\nobserved for ozone (OR = 0.998, 95% CI: 0.965, 1.032). Socioeconomic deprivation had no significant influence on these relations."
+        },
+        "air_pollutants": [{
+                "uid": 1,
+                "comment": null,
+                "abbrev": "SO2",
+                "pollutant": "Sulfur dioxide"
+            },
+            {
+                "uid": 4,
+                "comment": null,
+                "abbrev": "NO2",
+                "pollutant": "Nitrogen dioxide"
+            },
+            {
+                "uid": 5,
+                "comment": null,
+                "abbrev": "PM10",
+                "pollutant": "Particulate Matter 10"
+            }
+        ],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 2000,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 2005
+        },
+        "pub_uid": 53,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "Australia",
+            "uid": 47,
+            "location_in_pub": "Brisbane",
+            "country": "Australia",
+            "max_lat": 0.0,
+            "city": "Brisbane",
+            "latitude": -27.470125,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": "Queensland",
+            "min_lat": 0.0,
+            "longitude": 153.021072
+        },
+        "stat_method": {
+            "uid": 24,
+            "name": "Air Pollution and Health: A European Approach (APHEA)",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": null,
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "Archives of Environmental Health",
+            "access": "1",
+            "year": 2001,
+            "author": [
+                "Petroeschevsky A",
+                "Simpsom RW",
+                "Thalib L",
+                "and  Rutherford S"
+            ],
+            "title": "Associations between outdoor air pollution and hospital admissions in Brisbane, Australia",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/11256855\/",
+            "doi": "10.1080\/00039890109604053"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "Ozone was consistently associated with admissions for asthma and respiratory disease-with little evidence of a threshold. In two-pollutant models, the ozone effect was relatively unaffected by the control for high levels of other pollutants. Particulate pollution (measured by nephelometry) was associated positively with admissions for respiratory disease and admissions for asthma in summer, whereas a negative association was observed for cardiovascular admissions. Although sulfur dioxide was associated significantly with admissions for respiratory and cardiovascular disese, a significant association was also found for the control diagnosis of digestive disorders."
+        },
+        "air_pollutants": [{
+                "uid": 3,
+                "comment": null,
+                "abbrev": "O3",
+                "pollutant": "Ozone"
+            },
+            {
+                "uid": 5,
+                "comment": null,
+                "abbrev": "PM10",
+                "pollutant": "Particulate Matter 10"
+            },
+            {
+                "uid": 6,
+                "comment": null,
+                "abbrev": "PM25",
+                "pollutant": "Particulate Matter 2.5"
+            }
+        ],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 1987,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 1994
+        },
+        "pub_uid": 54,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "North America",
+            "uid": 48,
+            "location_in_pub": "Toronto",
+            "country": "Canada",
+            "max_lat": 0.0,
+            "city": "Toronto",
+            "latitude": 43.65107,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": "Ontario",
+            "min_lat": 0.0,
+            "longitude": -79.347015
+        },
+        "stat_method": {
+            "uid": 26,
+            "name": "Conditional Logistic Regression Model",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": "age 6 - 12 years",
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "Journal of Epidemiology and Community Health",
+            "access": "1",
+            "year": 2003,
+            "author": [
+                "Lin M",
+                "Chen Y",
+                "Burnett RT",
+                "Villeneuve PJ",
+                "and Krewski D"
+            ],
+            "title": "Effect of short-term exposure to gaseous pollution on asthma hospitalization in children: a bi-directional case-crossover analysis",
+            "url": "https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC1732274\/",
+            "doi": "10.1136\/jech.57.1.50"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "A significant acute effect of carbon monoxide on asthma hospitalisation was found in boys, and \r\nsulphur dioxide showed significant effects of prolonged exposure in girls. Nitrogen dioxide was \r\npositively associated with asthma admissions in both sexes. The lag time for certain gaseous \r\npollutant effects seemed to be shorter in boys (around two to three days for carbon monoxide \r\nand nitrogen dioxide), as compared with girls (about six to seven days for sulphur dioxide and \r\nnitrogen dioxide). The effects of gaseous pollutants on asthma hospitalisation remained after \r\nadjustment of particulate matter. The data showed no association between ozone and asthma \r\nhospitalisation in children."
+        },
+        "air_pollutants": [{
+                "uid": 1,
+                "comment": null,
+                "abbrev": "SO2",
+                "pollutant": "Sulfur dioxide"
+            },
+            {
+                "uid": 2,
+                "comment": null,
+                "abbrev": "CO",
+                "pollutant": "Carbon monoxide"
+            },
+            {
+                "uid": 4,
+                "comment": null,
+                "abbrev": "NO2",
+                "pollutant": "Nitrogen dioxide"
+            }
+        ],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 1981,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 1993
+        },
+        "pub_uid": 55,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "North America",
+            "uid": 49,
+            "location_in_pub": "Vancouver",
+            "country": "Canada",
+            "max_lat": 0.0,
+            "city": "Vancouver",
+            "latitude": 49.246292,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": "British Columbia",
+            "min_lat": 0.0,
+            "longitude": -123.116226
+        },
+        "stat_method": {
+            "uid": 0,
+            "name": null,
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": "age 6 - 12 years",
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "American Journal of Epidemiology",
+            "access": "1",
+            "year": 2004,
+            "author": [
+                "Lin M",
+                "Chen Y",
+                "Villeneuve PY",
+                "Burnett RT",
+                "Lemyre L",
+                "Hertzman C",
+                "et al."
+            ],
+            "title": "Gaseous air pollutants and asthma hospitalization of children with low household income in Vancouver, British Columbia, Canada",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/14742290\/",
+            "doi": "10.1093\/aje\/kwh043"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "Exposures to nitrogen dioxide were found to be significantly and positively associated with asthma \r\nhospitalization for males in the low socioeconomic group but not in the high socioeconomic group. \r\nFor females, this same pattern of association was observed for exposures to sulfur dioxide."
+        },
+        "air_pollutants": [{
+                "uid": 1,
+                "comment": null,
+                "abbrev": "SO2",
+                "pollutant": "Sulfur dioxide"
+            },
+            {
+                "uid": 4,
+                "comment": null,
+                "abbrev": "NO2",
+                "pollutant": "Nitrogen dioxide"
+            }
+        ],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 1987,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 1998
+        },
+        "pub_uid": 56,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "Asia",
+            "uid": 10,
+            "location_in_pub": "Hong Kong",
+            "country": "Hong Kong",
+            "max_lat": 0.0,
+            "city": "Hong Kong",
+            "latitude": 22.302711,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": null,
+            "min_lat": 0.0,
+            "longitude": 114.177216
+        },
+        "stat_method": {
+            "uid": 9,
+            "name": "Poisson Generalised Additive Model (GAM)",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": null,
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "Clinical & Experimental Allergy",
+            "access": "1",
+            "year": 2007,
+            "author": [
+                "Ko FWS",
+                "Tam W",
+                "Wong TW",
+                "Lai CKW",
+                "Wong GWK",
+                "Leung TF",
+                "et al."
+            ],
+            "title": "Effects of air pollution on asthma hospitalization rates in different age groups in Hong Kong",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/17845411\/",
+            "doi": "10.1111\/j.1365-2222.2007.02791.x"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "Significant associations were found between hospital admissions for asthma and levels of NO(2), O(3), PM(10) and PM(2.5). \r\nThe relative risks (RR) for hospitalization for every 10 microg\/m(3) increase in NO(2), O(3), PM(10) and PM(2.5) were \r\n1.028, 1.034, 1.019 and 1.021, respectively, at a lag day that ranged from cumulative lag 0-4 to 0-5. \r\nIn a multi-pollutant model, O(3) was significantly associated with increased admissions for asthma. \r\nThe younger age group (0-14 years) tended to have a higher RR for each 10 microg\/m(3) increase in pollutants \r\nthan those aged 15-65 years. The elderly (aged >\/=65 years) had a shorter 'best' lag time to develop asthma \r\nexacerbation following exposure to pollutants than those aged <65 years."
+        },
+        "air_pollutants": [{
+                "uid": 4,
+                "comment": null,
+                "abbrev": "O3",
+                "pollutant": "Ozone"
+            },
+            {
+                "uid": 3,
+                "comment": null,
+                "abbrev": "NO2",
+                "pollutant": "Nitrogen dioxide"
+            },
+            {
+                "uid": 5,
+                "comment": null,
+                "abbrev": "PM10",
+                "pollutant": "Particulate Matter 10"
+            },
+            {
+                "uid": 6,
+                "comment": null,
+                "abbrev": "PM25",
+                "pollutant": "Particulate Matter 2.5"
+            }
+        ],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 2000,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 2005
+        },
+        "pub_uid": 57,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "Europe",
+            "uid": 51,
+            "location_in_pub": "Rotterdam",
+            "country": "The Netherlands",
+            "max_lat": 0.0,
+            "city": "Rotterdam",
+            "latitude": 51.926517,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": null,
+            "min_lat": 0.0,
+            "longitude": 4.462456
+        },
+        "stat_method": {
+            "uid": 27,
+            "name": "Autoregressive Poisson Regression",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 1,
+            "comment": null,
+            "pub_comment": null,
+            "type": "Adult"
+        },
+        "publication": {
+            "journal": "Journal of Epidemiology and Community Health",
+            "access": "1",
+            "year": 1996,
+            "author": [
+                "Schouten JP",
+                "Vonk JM",
+                "and Graaf AD."
+            ],
+            "title": "Short term effects of air pollution on emergency hospital admissions for respiratory disease: results of the APHEA project in two major cities in The Netherlands, 1977-89",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/8758220\/",
+            "doi": "10.1136\/jech.50.suppl_1.s22"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "The results show that the relation between short term air pollution and emergency hospital admissions is not \r\nalways consistent at these rather low levels of daily hospital admissions and of air pollution."
+        },
+        "air_pollutants": [{
+                "uid": 1,
+                "comment": null,
+                "abbrev": "SO2",
+                "pollutant": "Sulfur dioxide"
+            },
+            {
+                "uid": 3,
+                "comment": null,
+                "abbrev": "O3",
+                "pollutant": "Ozone"
+            },
+            {
+                "uid": 4,
+                "comment": null,
+                "abbrev": "NO2",
+                "pollutant": "Nitrogen dioxide"
+            }
+        ],
+        "diseases": [{
+            "uid": 4,
+            "name": "Respiratory Symptoms",
+            "comment": null,
+            "pub_comment": null,
+            "icd": null,
+            "version": null
+        }],
+        "study_period": {
+            "start_year": 1977,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 1989
+        },
+        "pub_uid": 58,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "Europe",
+            "uid": 40,
+            "location_in_pub": "Barcelona",
+            "country": "Spain",
+            "max_lat": 0.0,
+            "city": "Barcelona",
+            "latitude": 41.390205,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": null,
+            "min_lat": 0.0,
+            "longitude": 2.154007
+        },
+        "stat_method": {
+            "uid": 16,
+            "name": "Poisson Regression",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 1,
+            "comment": null,
+            "pub_comment": null,
+            "type": "Adult"
+        },
+        "publication": {
+            "journal": "Thorax",
+            "access": "1",
+            "year": 1995,
+            "author": [
+                "Castellsague J",
+                "Sunyer J",
+                "Saez M",
+                "and  Anto JM"
+            ],
+            "title": "Short-term association between air pollution and emergency room visits for asthma in Barcelona",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/7491552\/",
+            "doi": "10.1136\/thx.50.10.1051"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "Black smoke was associated with asthma visits in summer but not in winter. \r\nThe relative risk (RR) of asthma visits for a 25 micrograms\/m3 increase of current day concentrations \r\nof black smoke was 1.082 (95% CI 1.011 to 1.157). The mean current and previous three day levels of \r\nblack smoke led to a stronger association (RR = 1.114 (95% CI 1.010 to 1.160). In addition, nitrogen dioxide \r\nwas associated with asthma visits in both summer (RR = 1.045, 95% CI 1.009 to 1.081) and \r\nwinter (RR = 1.056, 95% CI 1.011 to 1.104). These associations were slightly higher for the previous \r\nday's level of nitrogen dioxide."
+        },
+        "air_pollutants": [{
+                "uid": 4,
+                "comment": null,
+                "abbrev": "NO2",
+                "pollutant": "Nitrogen dioxide"
+            },
+            {
+                "uid": 13,
+                "comment": null,
+                "abbrev": null,
+                "pollutant": "Black Smoke"
+            }
+        ],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 1985,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 1989
+        },
+        "pub_uid": 59,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "North America",
+            "uid": 52,
+            "location_in_pub": "New York City",
+            "country": "United States",
+            "max_lat": 0.0,
+            "city": "New York City",
+            "latitude": 40.73061,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": "New York",
+            "min_lat": 0.0,
+            "longitude": -73.935242
+        },
+        "stat_method": {
+            "uid": 28,
+            "name": "Regression Model",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": "<6, 6-18",
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "The Journal of Allergy and Clinical Immunology",
+            "access": "1",
+            "year": 2010,
+            "author": [
+                "Silverman RA",
+                "and  Ito K"
+            ],
+            "title": "Age-related association of fine particles and ozone with severe acute asthma in New York City",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/20159246\/",
+            "doi": "10.1016\/j.jaci.2009.10.061"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "Warm weather patterns of ozone and PM(2.5) disproportionately affect children with asthma and appear \r\nresponsible for severe attacks that could have been avoided."
+        },
+        "air_pollutants": [{
+                "uid": 3,
+                "comment": null,
+                "abbrev": "O3",
+                "pollutant": "Ozone"
+            },
+            {
+                "uid": 6,
+                "comment": null,
+                "abbrev": "PM25",
+                "pollutant": "Particulate Matter 2.5"
+            }
+        ],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 1999,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 2006
+        },
+        "pub_uid": 60,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "Oceania",
+            "uid": 56,
+            "location_in_pub": "Christchurch",
+            "country": "New Zealand",
+            "max_lat": 0.0,
+            "city": "Christchurch",
+            "latitude": -43.52565,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": "South Island",
+            "min_lat": 0.0,
+            "longitude": 172.639847
+        },
+        "stat_method": {
+            "uid": 22,
+            "name": "Case-crossover",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": "age < = 14 years",
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "American Journal of Respiratory and Critical Care Medicine",
+            "access": "1",
+            "year": 2005,
+            "author": [
+                "Barnett AG",
+                "Williams GM",
+                "Schwartz J",
+                "Neller AH",
+                "Best TL",
+                "Petroeschevsky",
+                "et al."
+            ],
+            "title": "Air pollution and child respiratory health: A case-crossover study in Australia and New Zealand",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/15764722\/",
+            "doi": "10.1164\/rccm.200411-1586OC"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "This study has shown strong and consistent associations between children's hospital admissions and \r\noutdoor air pollutants in the urban centers of Australia and New Zealand for NO2, particles, and SO2"
+        },
+        "air_pollutants": [{
+                "uid": 4,
+                "comment": null,
+                "abbrev": "SO2",
+                "pollutant": "Sulfur dioxide"
+            },
+            {
+                "uid": 5,
+                "comment": null,
+                "abbrev": "NO2",
+                "pollutant": "Nitrogen dioxide"
+            },
+            {
+                "uid": 6,
+                "comment": null,
+                "abbrev": "PM10",
+                "pollutant": "Particulate Matter 10"
+            },
+            {
+                "uid": 1,
+                "comment": null,
+                "abbrev": "PM25",
+                "pollutant": "Particulate Matter 2.5"
+            }
+        ],
+        "diseases": [{
+            "uid": 4,
+            "name": "Respiratory Symptoms",
+            "comment": null,
+            "pub_comment": null,
+            "icd": null,
+            "version": null
+        }],
+        "study_period": {
+            "start_year": 1998,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 2001
+        },
+        "pub_uid": 61,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "Australia",
+            "uid": 39,
+            "location_in_pub": "Sydney",
+            "country": "Australia",
+            "max_lat": 0.0,
+            "city": "Sydney",
+            "latitude": -33.865143,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": "New South Wales",
+            "min_lat": 0.0,
+            "longitude": 151.2099
+        },
+        "stat_method": {
+            "uid": 22,
+            "name": "Case-crossover",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": "ages 1-4, 5-9, 10-14 years",
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "International Archives of Occupational and Environmental Health",
+            "access": "1",
+            "year": 2008,
+            "author": [
+                "Jalaludin BB",
+                "Khalaj B",
+                "Sheppeard V",
+                "and Morgan G."
+            ],
+            "title": "Air pollution and ED visits for asthma in Australian children: a case-crossover analysis",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/18094989\/",
+            "doi": "10.1007\/s00420-007-0290-0"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "Associations between ambient air pollutants and ED visits for asthma in children were most consistent \r\nfor all six air pollutants in the 1-4 years age-group, for particulates and CO in the 5-9 years \r\nage-group and for CO in the 10-14 years age-group. The greatest effects were most consistently \r\nobserved for lag 0 and effects were greater in the warm months for particulates, O(3) and NO(2). \r\nIn two pollutant models, effect sizes were generally smaller compared to those derived from single pollutant models."
+        },
+        "air_pollutants": [{
+                "uid": 1,
+                "comment": null,
+                "abbrev": "SO2",
+                "pollutant": "Sulfur dioxide"
+            },
+            {
+                "uid": 2,
+                "comment": null,
+                "abbrev": "CO",
+                "pollutant": "Carbon monoxide"
+            },
+            {
+                "uid": 3,
+                "comment": null,
+                "abbrev": "O3",
+                "pollutant": "Ozone"
+            },
+            {
+                "uid": 4,
+                "comment": null,
+                "abbrev": "NO2",
+                "pollutant": "Nitrogen dioxide"
+            },
+            {
+                "uid": 5,
+                "comment": null,
+                "abbrev": "PM10",
+                "pollutant": "Particulate Matter 10"
+            },
+            {
+                "uid": 6,
+                "comment": null,
+                "abbrev": "PM25",
+                "pollutant": "Particulate Matter 2.5"
+            }
+        ],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 1997,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 2001
+        },
+        "pub_uid": 62,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "Europe",
+            "uid": 57,
+            "location_in_pub": "Milan",
+            "country": "Italy",
+            "max_lat": 0.0,
+            "city": "Milan",
+            "latitude": 45.464664,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": "Lombardy",
+            "min_lat": 0.0,
+            "longitude": 9.18854
+        },
+        "stat_method": {
+            "uid": 20,
+            "name": "Time-stratified case-crossover design",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 0,
+            "comment": null,
+            "pub_comment": null,
+            "type": null
+        },
+        "publication": {
+            "journal": "Respiratory Research",
+            "access": "1",
+            "year": 2012,
+            "author": [
+                "Santus P",
+                "Russo A",
+                "Madonini E",
+                "Allegra L",
+                "Blasi F",
+                "Centanni S",
+                "et al."
+            ],
+            "title": "How air pollution influences clinical management of respiratory diseases. A case-crossover study in Milan",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/23078274\/",
+            "doi": "10.1186\/1465-9921-13-95"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "An increase in ozone (O(3)) levels at lag 3-5 was associated with a 78% increase in the number \r\nof ERAs for asthma, especially during the warm season. A significant association was found between \r\nERAs for COPD exacerbation and levels of sulphur dioxide (SO(2)), CO, nitrate dioxide (NO(2)), and \r\nparticulate matter (PM(10) and PM(2.5))."
+        },
+        "air_pollutants": [{
+                "uid": 1,
+                "comment": null,
+                "abbrev": "SO2",
+                "pollutant": "Sulfur dioxide"
+            },
+            {
+                "uid": 2,
+                "comment": null,
+                "abbrev": "CO",
+                "pollutant": "Carbon monoxide"
+            },
+            {
+                "uid": 3,
+                "comment": null,
+                "abbrev": "O3",
+                "pollutant": "Ozone"
+            },
+            {
+                "uid": 4,
+                "comment": null,
+                "abbrev": "NO2",
+                "pollutant": "Nitrogen dioxide"
+            },
+            {
+                "uid": 5,
+                "comment": null,
+                "abbrev": "PM10",
+                "pollutant": "Particulate Matter 10"
+            },
+            {
+                "uid": 6,
+                "comment": null,
+                "abbrev": "PM25",
+                "pollutant": "Particulate Matter 2.5"
+            }
+        ],
+        "diseases": [{
+                "uid": 1,
+                "name": "Asthma",
+                "comment": null,
+                "pub_comment": null,
+                "icd": "J45.901",
+                "version": "9"
+            },
+            {
+                "uid": 3,
+                "name": "COPD",
+                "comment": null,
+                "pub_comment": null,
+                "icd": "J44.9",
+                "version": "10"
+            }
+        ],
+        "study_period": {
+            "start_year": 0,
+            "start_month": 0,
+            "end_month": 0,
+            "end_year": 0
+        },
+        "pub_uid": 63,
+        "atm_parameters": []
+    },
+    {
+        "geo_location": {
+            "continent": "North America",
+            "uid": 58,
+            "location_in_pub": "Atlanta",
+            "country": "United States",
+            "max_lat": 0.0,
+            "city": "Atlanta",
+            "latitude": 33.753746,
+            "max_long": 0.0,
+            "min_long": 0.0,
+            "state": "Georgia",
+            "min_lat": 0.0,
+            "longitude": -84.38633
+        },
+        "stat_method": {
+            "uid": 8,
+            "name": "Poisson log-linear regression model",
+            "comment": null
+        },
+        "pollen": {
+            "uid": 0,
+            "comment": null,
+            "type": null
+        },
+        "weather_relations": [],
+        "subject": {
+            "uid": 2,
+            "comment": null,
+            "pub_comment": "age 5-17 years",
+            "type": "Pediatric"
+        },
+        "publication": {
+            "journal": "American Journal of Respiratory and Critical Care Medicine",
+            "access": "1",
+            "year": 2010,
+            "author": [
+                "Strickland MJ",
+                "Darrow LA",
+                "Klein M",
+                "Flanders D",
+                "Sarnat JA",
+                "Waller LA",
+                "et al."
+            ],
+            "title": "Short-term associations between ambient air pollutants and pediatric asthma emergency department visits",
+            "url": "https:\/\/pubmed.ncbi.nlm.nih.gov\/20378732\/",
+            "doi": "10.1164\/rccm.200908-1201OC"
+        },
+        "study_outcome": {
+            "comment": null,
+            "outcome": "Both ozone and primary pollutants from traffic sources were associated with emergency department visits \r\nfor asthma or wheeze; evidence for independent effects of ozone and primary pollutants from traffic sources \r\nwere observed in multipollutant models. These associations tended to be of the highest magnitude for concentrations \r\non the day of the emergency department visit and were present at relatively low ambient concentrations."
+        },
+        "air_pollutants": [{
+                "uid": 3,
+                "comment": null,
+                "abbrev": "SO2",
+                "pollutant": "Sulfur dioxide"
+            },
+            {
+                "uid": 1,
+                "comment": null,
+                "abbrev": "CO",
+                "pollutant": "Carbon monoxide"
+            },
+            {
+                "uid": 2,
+                "comment": null,
+                "abbrev": "O3",
+                "pollutant": "Ozone"
+            },
+            {
+                "uid": 4,
+                "comment": null,
+                "abbrev": "NO2",
+                "pollutant": "Nitrogen dioxide"
+            },
+            {
+                "uid": 5,
+                "comment": null,
+                "abbrev": "PM10",
+                "pollutant": "Particulate Matter 10"
+            },
+            {
+                "uid": 6,
+                "comment": null,
+                "abbrev": "PM25",
+                "pollutant": "Particulate Matter 2.5"
+            }
+        ],
+        "diseases": [{
+            "uid": 1,
+            "name": "Asthma",
+            "comment": null,
+            "pub_comment": null,
+            "icd": "J45.901",
+            "version": "9"
+        }],
+        "study_period": {
+            "start_year": 1993,
+            "start_month": 1,
+            "end_month": 12,
+            "end_year": 2004
+        },
+        "pub_uid": 64,
+        "atm_parameters": []
+    }
+]

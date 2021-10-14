@@ -1,0 +1,17 @@
+AtmosphericParametersUId|PrimaryParameter|SecondaryParameter|DerivedParameter|Comments
+1|Temperature|Temperature||
+2|Temperature|Air Temperature||
+3|Temperature|Mean Temperature||
+4|Temperature|Minimum Temperature||
+5|Temperature|Maximum Temperature||
+6|Temperature|Dew point Temperature||
+7|Humidity|Humidity||
+8|Humidity|Relative Humidity||
+9|Humidity|Absolute Humidity||
+10|Wind|Wind Speed||
+11|Seasons|Seasons||
+12|Temperature|Diurnal Temperature range (DTR)|Diurnal Temperature range (DTR)|
+13|Temperature|Mean Monthly Air Temperature||
+14|Thunderstorm|Thunderstorm||
+15|Rainfall|Rainfall||
+16|Seasonal Variation|Seasonal Variation||

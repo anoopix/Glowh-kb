@@ -1,0 +1,44 @@
+#graph {
+    position: relative;
+    z-index: -1;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.graph-select {
+    width: 100%;
+}
+
+.graphBtn-container {
+    position: absolute;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+
+.graph-btn {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 15px;
+    border: 2px solid rgb(42, 141, 255);
+    background-color: rgb(103, 174, 255);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-shadow: 1.5px 1.5px black;
+    cursor: pointer;
+}
+
+.graph-btn:hover {
+    border: 2px solid rgb(0, 87, 185);
+    background-color: rgb(35, 110, 196);
+    color: rgb(240, 255, 158);
+}
+
+.graph-btn:active {
+    background-color: rgb(0, 78, 167);
+    color: rgb(255, 200, 82);
+}
